@@ -1,4 +1,4 @@
-# FTBInteractions_nihongokaYatu
+# FTBInteractionsの日本語化やつ
 
 --- コレナニ ---
 
