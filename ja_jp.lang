@@ -82,7 +82,7 @@ interactions.154955d3.009703b7.text.0=1つの方法でうまくいかない場�
 interactions.154955d3.009703b7.text.1=USBのように
 
 interactions.154955d3.054b6992.title=JEI Protips
-interactions.154955d3.054b6992.text.0=- FTBQにはJEIの統合機能があり、クエストアイコンや複数のアイテムがある場合は左にあるチェックレシピのキーバインド(デフォルト:R)を使いましょう。
+interactions.154955d3.054b6992.text.0=- FTBQにはJEIとの連携機能があり、クエストアイコンや複数のアイテムがある場合は左にあるチェックレシピのキーバインド(デフォルト:R)を使いましょう。
 interactions.154955d3.054b6992.text.1=- もしあなたが戻るボタン付きのマウスを持っているなら、そのキーをバックスペースの代わりにJEIの「前に見たレシピを表示」にバインドすることをお勧めします。その方が生活が楽になります。
 
 interactions.154955d3.054b6992.text.2=- Shiftキーを押しながらアイテムをマウスオーバーすると、そのアイテムの鉱石辞書タグが表示されます。(Gregアイテムでこれをするとゲームが一瞬フリーズします)
@@ -106,7 +106,7 @@ interactions.154955d3.11d2e951.text.0=真面目な話、これを使ってくだ
 
 interactions.154955d3.178d064e.title=ライブラリーカードを持っていれば、楽しむことは難しくありません
 interactions.154955d3.178d064e.description=この場合、それはあなたのライブラリChiselです。普通の本や、あなたが始めたFTBQuestbookを他のマニュアルにチゼルすることができます。
-interactions.154955d3.178d064e.tasks.0.title=受け入れる
+interactions.154955d3.178d064e.tasks.0.title=了解
 
 interactions.154955d3.1bb9079a.description=これがあなたの最初のかまどです。このかまどで物を製錬すると、次のステップに役立つ経験値を得ることができます。
 interactions.154955d3.1bb9079a.text.0=精錬には時間がかかるので、最初にいくつかのかまどを作っておくことをお勧めします。
@@ -145,17 +145,17 @@ interactions.154955d3.4c1c86a9.text.0=素早く回収すれば、固まる前の
 
 interactions.154955d3.54f0c63a.title=こうやって思い出させてくれるんですね
 interactions.154955d3.54f0c63a.description=私たちは完全な透明性を追求しています。テスターがオーバーワールドで死に続けていたため、最初はvoid worldからスタートします。時間をかけて、JEIとクエストブックを知り、自己責任でパックの進行を急ぎましょう。
-interactions.154955d3.54f0c63a.tasks.0.title=受け入れる
+interactions.154955d3.54f0c63a.tasks.0.title=了解
 
 interactions.154955d3.555a1a94.title=Fomdog bone
 interactions.154955d3.555a1a94.text.0=メルター用の陶器を作るには、骨粉が必要です。これは、ストレーナーの中にある骨から得ることができます。
 
 interactions.154955d3.5a0e0129.title=Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen!
 interactions.154955d3.5a0e0129.description=これらのクエストアイコンのいずれかが表示された場合、このセクションにはJEIでは見つけられない情報や、パックを乗り越えるための有用なヒントが含まれていることを意味します。
-interactions.154955d3.5a0e0129.tasks.0.title=受け入れる
+interactions.154955d3.5a0e0129.tasks.0.title=了解
 
 interactions.154955d3.5c197ff1.title=本来ならば必要のないことなんですが...。
-interactions.154955d3.5c197ff1.description=しかし、もしあなたがトメをテーブルに置かずに失くしてしまったという特別なクラブに参加しているなら、ここにバックアップがあります。それ以上のことはできません。
+interactions.154955d3.5c197ff1.description=しかし、もしあなたが錬金大全をテーブルに置かずに失くしてしまったという悲劇的なクラブに参加しているなら、ここにバックアップがあります。それ以上のことはできません。
 
 interactions.154955d3.65c2b61d.description=蓮の種は、使用するとプレイヤーに経験値を与える花を咲かせることができます。まずはサバイバルストレーナーを使ってみてください。後に遠心分離機で自動処理することができます。
 interactions.154955d3.65c2b61d.text.0=ヒント：修繕ついているアイテムは、オフハンドで持ったり、身につけたりしてから蓮の花を食べると修復されます。
@@ -180,7 +180,7 @@ interactions.154955d3.792f5e20.description=ある程度は。
 
 interactions.154955d3.79371cf9.title=Interactionsへようこそ。日焼け止めを塗って、キーバインドの設定を忘れないでくださいね。
 interactions.154955d3.79371cf9.description=かつて、キーバインドを設定するのを忘れた、迷える小さなマインクラフトプレイヤーがいました。そのプレイヤーは迷ったままでした。そして、もう一人の賢い小さなマインクラフト・プレイヤーがいて、彼女はキーバインドを設定するのを忘れませんでした。彼女は記録的な速さでInteractionsを攻略しました。
-interactions.154955d3.79371cf9.tasks.0.title=受け入れる
+interactions.154955d3.79371cf9.tasks.0.title=了解
 interactions.154955d3.79371cf9.text.0=おすすめキーバインド:
 interactions.154955d3.79371cf9.text.1=- クエストブックを開く: NUMPAD 1
 interactions.154955d3.79371cf9.text.2=- JEI材料にブックマーク: ミドルクリック
@@ -205,7 +205,7 @@ interactions.154955d3.7ec1b2f7.title=FTB公式ディスコード招待
 interactions.154955d3.85434674.title=Yeet that Wheat
 interactions.154955d3.85434674.description=報酬はプラントボールで、これらをコピーすることができることを伝えています。
 
-interactions.154955d3.87a33a89.title=Never Give You Up
+interactions.154955d3.87a33a89.title=諦めないで
 interactions.154955d3.87a33a89.description=チームでプレイしている場合は、Together Foreverコマンドでゲームステージを同期させてください。
 interactions.154955d3.87a33a89.text.0=/tofe invite <player_name>
 interactions.154955d3.87a33a89.text.1=/tofe accept <player_name>
@@ -289,7 +289,7 @@ interactions.154955d3.eb791b4a.description=ベースをよりきれいにする�
 
 interactions.154955d3.ed1c9869.title=FTBUltimine!
 interactions.154955d3.ed1c9869.description=FTBUltimineは、非資源収集の利便性を目的としています。木の葉を刈ったり、アストラル寺院を集めたり、芝生を刈ったりすることができます。FTBUltimineは鉱脈や丸太をブラックリストに載せていますが、これはHammers/Drills/Lumber Axesが役に立たなくなるからです。デフォルトのキーはGRAVEです。
-interactions.154955d3.ed1c9869.tasks.0.title=受け入れる
+interactions.154955d3.ed1c9869.tasks.0.title=了解
 
 interactions.154955d3.ee31eaaf.title=インフィニティダスト
 interactions.154955d3.ee31eaaf.description=火打ち石をもって岩盤を左クリックすると入手できます。これは4レベル以上のExpを消費し、ほとんどの場合、火打ち石を破壊します。暗い部屋の床に置いておくと、ダストがvoidから敵を召喚する確率が高くなります。
@@ -491,7 +491,7 @@ interactions.251cae50.ea9f723e.description=この列のアイテムは、ほと�
 
 interactions.251cae50.ffc526b6.title=青銅時代
 interactions.251cae50.ffc526b6.description=この欄のアイテムは、青銅時代でクラフトできる。
-interactions.251cae50.ffc526b6.tasks.0.title=受け入れる
+interactions.251cae50.ffc526b6.tasks.0.title=了解
 
 interactions.28fb9cd4.00fd92b4.title=正しいスタートを切るためには
 interactions.28fb9cd4.00fd92b4.text.0=このパックでは、MODとの相互作用が解決されないため、ステップアシストのVicioパークが無効になっています。代わりに、ステップアシストの美味しさを、身長のリンゴで提供します。どうぞ、お試しください。
@@ -609,7 +609,7 @@ interactions.40159cc8.16a194f4.text.0=この設計図はEuclydesのダンジョ�
 interactions.40159cc8.1e07ae16.title=スティーブが行ったことのないところへ果敢に行くために...
 interactions.40159cc8.1e07ae16.description=宇宙ステーションにワープコアを作り、ダイリチウム・クリスタルを供給し、ワープコントローラーを使ってはるか彼方の銀河へと旅立つ。
 
-interactions.40159cc8.1e936edf.title=Diamond and Emerald Veins
+interactions.40159cc8.1e936edf.title=ダイヤモンドとエメラルドの鉱脈
 
 interactions.40159cc8.1f76afbc.text.0=一部の高級合金の主成分であり、アウレリアに豊富に存在している。
 
@@ -733,7 +733,7 @@ interactions.40159cc8.f1db3ede.text.0=AE2や自動クラフトには欠かせな
 interactions.40159cc8.f8f90da4.title=フライトの基礎
 interactions.40159cc8.f8f90da4.description=ロケットを発射するためには、宇宙ステーションの構築とスキャン、そしてロケット自体のスキャンと発射の両方に適した発射台が必要です。発射台は正方形で、片側に構造物の塔があり、その横にそびえ立っています。
 
-interactions.40159cc8.fe50d67e.title="That's one small step for man, one giant leap for mankind"
+interactions.40159cc8.fe50d67e.title=それは人類にとって小さな一歩であり、大きな一歩でもある
 interactions.40159cc8.fe50d67e.description=月面に最初の一歩を踏み出したことで、「1969年の月面着陸は演出だったんだ！」ということがよくわかります。
 interactions.40159cc8.fe50d67e.text.0=ガイダンスコンピュータに「惑星IDチップ」を装着すると、他の惑星に旅行することができます。
 interactions.40159cc8.fe50d67e.text.1=重要：月はvoid worldの月であり、オーバーワールドの月ではありません。月を有効な目的地として見るためには、void worldから出発しなければならない。
@@ -751,9 +751,9 @@ interactions.498eb09c.46ef265b.title=フッ素
 interactions.498eb09c.46ef265b.description=レピドライトを中心とした様々な塩を電気分解して得ることができる。黒雲母のダストから再生可能に合成される。
 interactions.498eb09c.46ef265b.text.0=フッ素チキンを作ることもできます。鶏は本当に何でも解決してくれますよね。ブラッシングには適さないかもしれません。
 
-interactions.498eb09c.562511fd.title=Too Cold To Hold
+interactions.498eb09c.562511fd.title=持つには冷たすぎる
 interactions.498eb09c.562511fd.description=空気を真空冷凍庫に通すと、低温と圧縮により液体になり、遠心分離することで大量の有用なガスを得ることができます。
-interactions.498eb09c.562511fd.tasks.0.title=Too Cold To Hold
+interactions.498eb09c.562511fd.tasks.0.title=持つには冷たすぎる
 interactions.498eb09c.562511fd.text.0=これでガスが発生し、遠心分離機にかけることで様々な副産物を得ることができます。また、同じようにガスを出す鶏もいます。どちらを選ぶかはあなた次第ですが、大量に必要になるでしょう
 
 interactions.498eb09c.76231851.title=Resistance is Rutile
@@ -1312,7 +1312,7 @@ interactions.9b11da3e.9d784334.description=花崗岩に似ているため、世�
 
 interactions.9b11da3e.a2f23fb7.title=What's mine is mine
 interactions.9b11da3e.a2f23fb7.description=GTCEの世代では、世界は3x3チャンクの大きさの「セクション」に分けられています。その際、大まかな目安として、各セクションに1つの大きな鉱脈が生成されるように設定されています。これらの鉱脈は簡単に2x2チャンクの大きさになり、何百もの鉱石を保持します。
-interactions.9b11da3e.a2f23fb7.tasks.0.title=受け入れる
+interactions.9b11da3e.a2f23fb7.tasks.0.title=了解
 
 interactions.9b11da3e.a97e02d2.title=What's in your head, in your head, Zombieeeee
 interactions.9b11da3e.a97e02d2.text.0=ゾンビはこれまで以上にバランスのとれたものになっています
