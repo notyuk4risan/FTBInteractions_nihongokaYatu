@@ -2,7 +2,7 @@ advancements.peaceful.root.title=Interactions: 安全な場所
 advancements.peaceful.root.description=FTB Interactionsへようこそ： オーバーワールドに行くまでは、平和な場所にいることになります。甘い生活を楽しんでください...これからはもっと大変なことが待っています
 
 advancements.overworld.root.title=Interactions: 安全とは言えない場所
-advancements.overworld.root.description=オーバーワールドへようこそ: この段階では新しい環境に慣れたり、重要なキーとなるタスクを片付けましょう。準備が終わったら、いくらかの真鍮(しんちゅう)(しんちゅう)を作ることで次に進みます。
+advancements.overworld.root.description=オーバーワールドへようこそ: この段階では新しい環境に慣れたり、重要なキーとなるタスクを片付けましょう。次に進むには真鍮を用意してください。
 
 advancements.bronze.root.title=Interactions: さらに(安全の)少ない場所
 advancements.bronze.root.description=物事はだんだんと刺激的になってきています。この世界で知られている最悪のモンスター以外はこれから出現するようになります。あなたが準備をしていることを願っています。
@@ -11,7 +11,7 @@ advancements.nether.root.title=Interactions: 絶対に安全とは言えない�
 advancements.nether.root.description=さらに危険なディメンションに踏み込むんですか？えっと、あなたは聡明な方ですね。最悪の事態に備えているということですかね？まあ、警告しなかったとは言えませんが。
 
 advancements.space.root.title=Interactions: 宇宙空間
-advancements.space.root.description=好奇心とはよく言ったもので...。君が異次元の空間に干渉することで、既知の宇宙で最も致命的な敵を迎え入れました。よくやった、あなたは我々を皆殺しにしただろう。
+advancements.space.root.description=好奇心とはよく言ったもので...。君が異次元の空間に干渉することで、既知の宇宙で最も致命的な敵を迎え入れました。おめでとうございます、あなたのせいで全滅しました。
 
 
 
@@ -19,42 +19,42 @@ interactions.103abc81.0dcfd09c.title=LVを超えるためのより強力な精�
 interactions.103abc81.0dcfd09c.text.0=MVティアに完全に入るための最大のハードルは、高炉で作らなければならないアルミニウムです。この段階では、EBFが主な目標となります。詳細については、Ayo technology と metallurgy LVタブを確認してください。
 
 interactions.103abc81.3308d327.description=ついに本格的な鉱石処理
-interactions.103abc81.3308d327.text.0=HVでは、すべての金属の80%%を精錬できるようになり、さまざまな魔法や技術の素材を利用できるようになりました。遊び方の選択肢が大きく広がります。自動化に力を入れる。ステンレススチール、PTFEの製造、そして宇宙への進出が次の目標です。
+interactions.103abc81.3308d327.text.0=HVでは、すべての金属の80%%を精錬できるようになり、さまざまな魔法や技術の素材を利用できるようになりました。遊び方の選択肢が大きく広がります。自動化に力を入れてください。ステンレススチール、PTFEの製造、そして宇宙への進出が次の目標です。
 
 interactions.103abc81.5b1c2607.description=耳を澄ませば爆弾が爆ぜる音が聞こえてくる
-interactions.103abc81.5b1c2607.text.0=エンダードラゴンが支配する虚無と闇の異界。ここを進むとオスミウム、イリジウム、プラチナなどの素材が多く手に入ります。直接カオスドラゴンを狙うもよし、先に自分を強化するのもいいでしょう。
+interactions.103abc81.5b1c2607.text.0=エンダードラゴンが支配する虚無と闇の異界。オスミウム、イリジウム、プラチナなどの素材を入手するにはここの開拓が必須です。直接カオスガーディアンに挑むも良し、闇の星アウレリアに行って最終段階の技術と魔法をアンロックして自分を強化するのもいいでしょう。
 interactions.103abc81.5b1c2607.text.1=闇の星アウレリアを訪れ、テクノロジーと魔法の最終段階のアンロックを行う。
 
 interactions.103abc81.60e81255.description=ヘンリー・フォードはあなたを誇りに思うでしょう
-interactions.103abc81.60e81255.text.0=Gregtechの最先端技術は、それを生産するために大規模なマルチブロックアセンブリを必要とします。
+interactions.103abc81.60e81255.text.0=GrregTechの先進技術のほとんどは生産に大規模なマルチブロックアセンブリーが必要です。
 
 interactions.103abc81.6672ed55.description=もう石炭を燃やすのはやめてくれませんか？
-interactions.103abc81.6672ed55.text.0=基本的な鋼鉄を作るには、地獄のかまどと粗鋼インゴットを作るためのスチーム合金製錬機が必要です。鋼鉄はLVへの主要なゲートとなるでしょう。
+interactions.103abc81.6672ed55.text.0=基本的な鋼鉄を作るには、地獄のかまどと粗鋼インゴットを作るためのスチーム合金製錬機が必要です。鋼鉄はLVでの主要な素材となります。
 
-interactions.103abc81.78546de8.tasks.0.title=無限のひろがり
+interactions.103abc81.78546de8.tasks.0.title=無限への進行
 interactions.103abc81.78546de8.text.0=void world (<-ここ重要)からロケットを打ち上げて宇宙へ。ここでは、宇宙ステーションを建設したり、軌道採掘機を設置してスカイストーンを集め、本格的にAE2を取り組むことができます。ここでは(Astral Sorceryの)星界の門がおすすめです。
 
 interactions.103abc81.7ddda4a3.title=これは避けられない(una void able)
-interactions.103abc81.7ddda4a3.description=まだ日が浅い？
-interactions.103abc81.7ddda4a3.text.0=オーバーワールドへのポータルを作成すると、進歩、鉱石、希少素材、魔法、そしてもちろん...新たな脅威のある全く新しい世界へのアクセスが可能になります。
+interactions.103abc81.7ddda4a3.description=夜明けはまだですか？
+interactions.103abc81.7ddda4a3.text.0=オーバーワールドへのポータルを作成すると新しく開拓する大地、鉱石、希少素材、魔法、そしてもちろん...新しい敵が解放されます。
 
 interactions.103abc81.89acf0d3.description=瓶の中の太陽ではダメで、材料も自分で作らないといけないんですか？
 
 interactions.103abc81.9be3aa5b.description=1セントを投げ入れると、底に落ちる前に消えていくのを見ることができます。
-interactions.103abc81.9be3aa5b.text.0=この惑星は、呼吸可能な大気を持っています。 ワープコントローラーとアーティファクトがあれば、あなたの宇宙ステーションでこの世界に飛ぶことができます。ここでは、vinteum鉱石、ダンジョン、強力なエイリアンの技術、さらには神話的な獣の噂を見つけることができます...。
+interactions.103abc81.9be3aa5b.text.0=この惑星は、呼吸可能な大気を持っています。 ワープコントローラーとアーティファクトがあれば、あなたの宇宙ステーションでこの世界に飛ぶことができます。ここではいろいろなものが見つかります。vinteum鉱石、ダンジョン、強力なエイリアンの技術、さらには神話生物のうわさまで...。
 
-interactions.103abc81.a7a83e28.description=この惑星は、私を重く見せますか？
+interactions.103abc81.a7a83e28.description=この惑星にいると太って見える？
 interactions.103abc81.a7a83e28.text.0=ナクアダなどの高級素材や豊富なプラチナが手に入ります。また、この世界には伝説のエンダー・チキンを召喚できる条件が揃っており、役に立つかもしれません...。
 
-interactions.103abc81.aaf439c8.text.0=これであなたは成し遂げました。、あなたはmodpackを打ち負かしました。解放され、自由気ままに生きる勇敢な魂です... 少なくともInteractons Expert mode...Kappaまでは。 
+interactions.103abc81.aaf439c8.text.0=これであなたは成し遂げました。、あなたはmodpackを打ち負かしました。解放され、自由気ままに生きる勇敢な魂です... 少なくともInteractons Expert mode...Kappaが出るまでは。 
 
-interactions.103abc81.cfcc58ad.title=Choo Choo steam go Brrr
-interactions.103abc81.cfcc58ad.description=これでやっと、プレートを打ち付ける必要がなくなりました。
+interactions.103abc81.cfcc58ad.title=蒸気がプシューってなってガー
+interactions.103abc81.cfcc58ad.description=これで少なくともプレートを打ち付ける必要がなくなりました。
 interactions.103abc81.cfcc58ad.text.0=すべてを手作業で行っていた時代から、輝かしい蒸気革命へと移行するには原始的な機械が必要になります。素晴らしいものではありませんが、これがスタートです。
 
-interactions.103abc81.cfcc58ad.text.1=この世界の真鍮(しんちゅう)は亜鉛で安定させる必要がありますが、亜鉛は非常にレアです。錬金真鍮を作成するのが最善の策なので、Thaumcraftを始めましょう。
+interactions.103abc81.cfcc58ad.text.1=真鍮を入手するためにこの世界の金属を亜鉛で安定させる必要がありますが、亜鉛は非常にレアです。錬金真鍮を作成するのが最善の策なので、Thaumcraftを始めましょう。
 
-interactions.103abc81.chapter.title=Forever Forward
+interactions.103abc81.chapter.title=進行
 interactions.103abc81.chapter.description.0=主要な進行目標の非常に広範囲な概要
 interactions.103abc81.chapter.description.2=どのクエストに注目すればいいのかのヒントがあります。
 interactions.103abc81.chapter.description.3=迷ったときにはこのクエストチェーンを参考にして、次にどのクエストラインに取り組むべきかを考えることができます。
@@ -62,11 +62,11 @@ interactions.103abc81.chapter.description.3=迷ったときにはこのクエス
 interactions.103abc81.dcd19e05.description=ディーゼルはなかなかいい感じですね
 interactions.103abc81.dcd19e05.text.0=MVに突入したら、次の素材の目標はHVパワーでステンレスを生産することです。関連するティア情報については、MetallurgyとAYO Technologyのタブを参照してください。
 
-interactions.103abc81.dcd19e05.text.1=より大きなパワーも必要になります。良い選択肢はディーゼルで、キャノーラで濃縮してオイル投入量を2倍以上にしたり、HVでさらに濃縮してセタン価を上げたり、最終的には注入したりすることができます。
+interactions.103abc81.dcd19e05.text.1=より大きなパワーも必要になります。良い選択肢はディーゼルで、キャノーラで濃縮してオイル投入量を2倍以上にしたり、HVでさらに濃縮してセタン価を上げたり、最終的にはスターライトを注入したりすることができます。
 
-interactions.103abc81.dcd19e05.text.2=再生不可能な資源というと抵抗があるかもしれませんが、このパックにはその資源を最大限に活用するためのツールが用意されています。井戸1つで、ポンプを動かす必要があるまで何日も持ちこたえることができ、最終的にはネロマティック・プライムを起動させます。
+interactions.103abc81.dcd19e05.text.2=再生不可能な資源というと抵抗があるかもしれませんが、このパックにはその資源を最大限に活用するためのツールが用意されています。油田1つで、ポンプを動かす必要があるまで何日も持ちこたえることができ、最終的にはネロマティック・プライムを起動させます。
 
-interactions.103abc81.dcd19e05.text.3=一週間以上の耐久性があり、ひとかたまりを移動させるだけでOK。この燃料は、ゲーム内で最も強力な燃料であるnaquadriatic燃料は終盤になっても適用できます。
+interactions.103abc81.dcd19e05.text.3=一週間以上の耐久性があり、ひとかたまりを移動させるだけでOK。この燃料は、ゲーム内で最も強力な燃料であるnaquadriatic燃料は終盤になっても活用できます。
 
 interactions.103abc81.dd0f8ba4.title=ロケットマン
 interactions.103abc81.dd0f8ba4.description=そして、着地して私が再び戻ってくるまでには、長い長い時間がかかると思います。
@@ -76,28 +76,28 @@ interactions.103abc81.dd0f8ba4.text.0=月を訪れると、純アルミニウム
 interactions.103abc81.f92a387e.title=地獄へのハイウェイ
 interactions.103abc81.f92a387e.description=ネザーに行くには、この10個のポータルブロックを作る必要があります。ネザーに足を踏み入れると、モブも徐々に手強くなっていきます。なお、作業台のレシピではリキッドデスが必要です。
 
-interactions.154955d3.009703b7.title=見ましたよ
+interactions.154955d3.009703b7.title=ノコギリを見る(I see saw)
 interactions.154955d3.009703b7.description=飢えを防ぐことができるかもしれません。それともやめておきますか。水源をノコギリの真下に置いて、流れに任せましょう。
 interactions.154955d3.009703b7.text.0=1つの方法でうまくいかない場合は、他の方法を試してみてください。
 interactions.154955d3.009703b7.text.1=USBのように
 
-interactions.154955d3.054b6992.title=JEI Protips
+interactions.154955d3.054b6992.title=JEI活用のコツ
 interactions.154955d3.054b6992.text.0=- FTBQにはJEIとの連携機能があり、クエストアイコンや複数のアイテムがある場合は左にあるチェックレシピのキーバインド(デフォルト:R)を使いましょう。
 interactions.154955d3.054b6992.text.1=- もしあなたが戻るボタン付きのマウスを持っているなら、そのキーをバックスペースの代わりにJEIの「前に見たレシピを表示」にバインドすることをお勧めします。その方が生活が楽になります。
 
 interactions.154955d3.054b6992.text.2=- Shiftキーを押しながらアイテムをマウスオーバーすると、そのアイテムの鉱石辞書タグが表示されます。(Gregアイテムでこれをするとゲームが一瞬フリーズします)
 interactions.154955d3.054b6992.text.3=- 何度も調べるのが面倒な場合は、JEIにブックマークしておきましょう。回路やロボットアーム、モーターなどで使うことが多いと思います。
 
-interactions.154955d3.07930191.title=主なクエストチェーン
+interactions.154955d3.07930191.title=クエストチェーンのはじまり
 interactions.154955d3.07930191.text.0=四角いアイコンがついているクエストは、クエストラインの開始を意味します。
 
-interactions.154955d3.095258c2.title=アイ・ハート・ユー(I Heart You)
+interactions.154955d3.095258c2.title=あなたが重要です
 interactions.154955d3.095258c2.description=void worldでは、モブが自然にスポーンしないため、「zen summon」でゾンビ村人を召喚し、村人に変換しないと進めません。しかし、賢者の石を作るには、ハートかエメラルドが必要です。
 interactions.154955d3.095258c2.text.0=村人の取引は無効です。このため、彼らは過剰な量のエメラルドを持っており、時折それを落とすことがあります。
 
-interactions.154955d3.0ce8b042.text.0=ロウソクは松明よりも簡単に作ることができ、機能も同じです。暗闇に飛び込む際には、必ず一束用意しておきましょう。
+interactions.154955d3.0ce8b042.text.0=ロウソクは松明よりも簡単に作ることができ、機能も同じです。暗闇に飛び込む際には、必ずたくさん用意しておきましょう。
 
-interactions.154955d3.0d64bc8a.title=知識の救護所
+interactions.154955d3.0d64bc8a.title=情報掲示板
 interactions.154955d3.0d64bc8a.tasks.0.title=指令クエスト
 interactions.154955d3.0d64bc8a.text.0=歯車の形をしたクエストでは、クエストや生産ラインの自動化に役立つ動画や図、フローチャートへの外部リンクが提供されます。
 
@@ -426,10 +426,10 @@ interactions.251cae50.097e1d70.description=アセンブリやスパコンなど�
 interactions.251cae50.1118d70b.description=シリコンストックがブール市場を牽引している。
 
 interactions.251cae50.1207a7cd.title=ZPM時代
-interactions.251cae50.1207a7cd.description=この行のアイテムは、ほとんどのZPMレシピで使用されます。
+interactions.251cae50.1207a7cd.description=この列のアイテムは、ほとんどのZPMレシピで使用されます。
 
 interactions.251cae50.165a3388.title=LuV時代
-interactions.251cae50.165a3388.description=この行のアイテムは、ほとんどのLuVレシピで使用されます。
+interactions.251cae50.165a3388.description=この列のアイテムは、ほとんどのLuVレシピで使用されます。
 
 interactions.251cae50.255cde8c.title=SMDコンポーネント
 interactions.251cae50.255cde8c.text.0=回路にはさまざまな部品が使われています。後悔しないためには、SMDタイプの部品の生産を自動化することです。LVからWetwareまでのレシピに使用されています。
@@ -438,42 +438,42 @@ interactions.251cae50.27253a8f.title=HV時代
 interactions.251cae50.27253a8f.description=この行のアイテムは、ほとんどのHVレシピで使用されます。
 
 interactions.251cae50.31d4520f.title=EV時代
-interactions.251cae50.31d4520f.description=この行のアイテムは、ほとんどのEVレシピで使用されます。
+interactions.251cae50.31d4520f.description=この列のアイテムは、ほとんどのEVレシピで使用されます。
 
 interactions.251cae50.326abe93.title=IV時代
 interactions.251cae50.326abe93.description=この行のアイテムは、ほとんどのIVレシピで使用されます。
 
 interactions.251cae50.3ab2fbc0.title=MV時代
-interactions.251cae50.3ab2fbc0.description=この行のアイテムは、ほとんどのMVレシピで使用されます。
+interactions.251cae50.3ab2fbc0.description=この列のアイテムは、ほとんどのMVレシピで使用されます。
 
 interactions.251cae50.3c172ef4.description=回路のパーツの中では2番目に作りやすいパーツですが、ゲーム後半になると回路基板のクラフトが重なり合うようになります。
 interactions.251cae50.3c172ef4.tasks.0.title=回路基板
 
 interactions.251cae50.4b2655c5.title=UV時代
-interactions.251cae50.4b2655c5.description=この行のアイテムは、UV時代でクラフトすることができます。
+interactions.251cae50.4b2655c5.description=この列のアイテムは、UV時代でクラフトすることができます。
 
 interactions.251cae50.84a5a212.title=LV時代
-interactions.251cae50.84a5a212.description=この欄のアイテムは、LV時代でクラフトすることができます。
+interactions.251cae50.84a5a212.description=この列のアイテムは、LV時代でクラフトすることができます。
 
 interactions.251cae50.8ef056b5.title=MAX時代
-interactions.251cae50.8ef056b5.description=この列のアイテムは、ほとんどのMAXレシピに使用されています。
+interactions.251cae50.8ef056b5.description=この行のアイテムは、ほとんどのMAXレシピに使用されています。
 
 interactions.251cae50.a912b4b8.text.0=ガリウムは、より良い回路を作るためのレアメタルです。ネザーで発見されたボーキサイトや閃亜鉛鉱を加工する際の副産物として入手できる。
 
 interactions.251cae50.a916453b.title=LV時代
-interactions.251cae50.a916453b.description=この列のアイテムは、ほとんどのLVレシピに使用されています。
+interactions.251cae50.a916453b.description=この行のアイテムは、ほとんどのLVレシピに使用されています。
 
 interactions.251cae50.b06b5e7b.title=EV時代
-interactions.251cae50.b06b5e7b.description=この列のアイテムは、ほとんどのEVレシピに使用されています。
+interactions.251cae50.b06b5e7b.description=この行のアイテムは、ほとんどのEVレシピに使用されています。
 
 interactions.251cae50.b99f707f.title=IV時代
 interactions.251cae50.b99f707f.description=この列のアイテムは、ほとんどのIVレシピに使用されています。
 
 interactions.251cae50.bbd4247f.title=LuV時代
-interactions.251cae50.bbd4247f.description=この列のアイテムは、ほとんどのLuVレシピに使用されています。
+interactions.251cae50.bbd4247f.description=この行のアイテムは、ほとんどのLuVレシピに使用されています。
 
 interactions.251cae50.c193d3a6.title=MV時代
-interactions.251cae50.c193d3a6.description=この列のアイテムは、ほとんどのMVレシピに使用されています。
+interactions.251cae50.c193d3a6.description=この行のアイテムは、ほとんどのMVレシピに使用されています。
 
 interactions.251cae50.chapter.title=偽の電気工学
 interactions.251cae50.chapter.description.0=このクエストラインでは、プロセッサーの全体的なプログレッションの概要と、各ティアへの到達方法を説明しています。
@@ -481,7 +481,7 @@ interactions.251cae50.chapter.description.2=進行中に新しい回路が必要
 interactions.251cae50.chapter.description.3=一般的には1つ下の階層の技術でも回路を作ることができますが、リソースコストが高くなることに注意してください。これは、より高いマシン・ティアに到達するためには、望ましいルートであり、時には必要なルートでもあります。
 
 interactions.251cae50.d1a98f7f.title=UV時代
-interactions.251cae50.d1a98f7f.description=この列のアイテムは、ほとんどのUVレシピで使用されています。
+interactions.251cae50.d1a98f7f.description=この行のアイテムは、ほとんどのUVレシピで使用されています。
 
 interactions.251cae50.d94602f8.title=HV時代
 interactions.251cae50.d94602f8.description=この列のアイテムは、ほとんどのHVレシピで使用されています。
@@ -490,7 +490,7 @@ interactions.251cae50.ea9f723e.title=ZPM時代
 interactions.251cae50.ea9f723e.description=この列のアイテムは、ほとんどのZPMレシピで使用されています。
 
 interactions.251cae50.ffc526b6.title=青銅時代
-interactions.251cae50.ffc526b6.description=この欄のアイテムは、青銅時代でクラフトできる。
+interactions.251cae50.ffc526b6.description=この列のアイテムは、青銅時代でクラフトできます。
 interactions.251cae50.ffc526b6.tasks.0.title=了解
 
 interactions.28fb9cd4.00fd92b4.title=正しいスタートを切るためには
@@ -1236,7 +1236,7 @@ interactions.9b11da3e.3e8fad6d.title=ラピスとアクアの鉱脈
 interactions.9b11da3e.3e8fad6d.description=すべてのバイオームで生成されますが、世界の創造神話では、雪の女王が最高の嫁であり、寒いバイオームには彼女の好きな鉱物が多く含まれていると言われています。
 
 interactions.9b11da3e.3fd662cb.title=エメラルドとエアの鉱脈
-interactions.9b11da3e.3fd662cb.description=ジャングル、砂漠、崖、極端な丘など、世界の圧縮力で山や丘が形成されているバイオームで生成されます。
+interactions.9b11da3e.3fd662cb.description=ジャングル、砂漠、崖、極端な丘など、世界の圧力で山や丘が形成されているバイオームで生成されます。
 
 interactions.9b11da3e.43694448.title=リグマ鉱脈
 interactions.9b11da3e.43694448.description=ジャングル以外のすべてのバイオームで生成されるので、余計に腹が立ちます。
@@ -1310,7 +1310,7 @@ interactions.9b11da3e.9d5ccff5.description=マナのプールは、オーバー�
 
 interactions.9b11da3e.9d784334.description=花崗岩に似ているため、世界生成の変換特性を利用し、玄武岩にも似ています。
 
-interactions.9b11da3e.a2f23fb7.title=What's mine is mine
+interactions.9b11da3e.a2f23fb7.title=採掘は私のものです(What's mine is mine)
 interactions.9b11da3e.a2f23fb7.description=GTCEの世代では、世界は3x3チャンクの大きさの「セクション」に分けられています。その際、大まかな目安として、各セクションに1つの大きな鉱脈が生成されるように設定されています。これらの鉱脈は簡単に2x2チャンクの大きさになり、何百もの鉱石を保持します。
 interactions.9b11da3e.a2f23fb7.tasks.0.title=了解
 
@@ -1382,13 +1382,13 @@ interactions.9b11da3e.e10ce5b3.titleマンガン鉱脈
 interactions.9b11da3e.e10ce5b3.description=すべてのバイオームで生成されますが、数に限りがあります。
 interactions.9b11da3e.e10ce5b3.text.0=これらはオーバーワールドではひっっっっっっじょーに珍しいものです。一番のおすすめはネザーで探すことです。
 
-interactions.9b11da3e.e2685d91.description=Spawns occasionally in a sphere underground.
+interactions.9b11da3e.e2685d91.description=地下でたまに、球状に生成されます。
 
 interactions.9b11da3e.e529bf92.title=あなたは大理石のように鋭い
 interactions.9b11da3e.e529bf92.description=大理石は古代の寺院で見つけることができますが、注意が必要です。古いものなので、軽く触れるだけで大理石が崩れてしまうことがあります。幸いなことに、崩れた大理石を修復する別の方法があるかもしれません。
 
 interactions.9b11da3e.f8958b59.title=最終的には、それは問題ではありません
-interactions.9b11da3e.f8958b59.text.0=エンダーメンは今まで以上に迷惑な存在です。
+interactions.9b11da3e.f8958b59.text.0=エンダーマンたちは今まで以上に迷惑な存在です。
 interactions.9b11da3e.f8958b59.text.1=- 攻撃してきたプレイヤーをテレポートで遠ざけることが可能です
 interactions.9b11da3e.f8958b59.text.2=- ターゲットに盲目を適用するチャンスがわずかにあります
 interactions.9b11da3e.f8958b59.text.4=このような可能性を補うために、エンダーマンは死亡時に最低1つのエンダーパールを必ず落とします。また、インベントリにエンダーパールを入れておくことで、エンダーマンのテレポート能力を防ぐことができます。
