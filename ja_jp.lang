@@ -158,7 +158,7 @@ interactions.154955d3.5c197ff1.title=本来ならば必要のないことなん�
 interactions.154955d3.5c197ff1.description=しかし、もしあなたが錬金大全をテーブルに置かずに失くしてしまったという悲劇的なクラブに参加しているなら、ここにバックアップがあります。それ以上のことはできません。
 
 interactions.154955d3.65c2b61d.description=蓮の種は、使用するとプレイヤーに経験値を与える花を咲かせることができます。まずはサバイバルストレーナーを使ってみてください。後に遠心分離機で自動処理することができます。
-interactions.154955d3.65c2b61d.text.0=ヒント：修繕ついているアイテムは、オフハンドで持ったり、身につけたりしてから蓮の花を食べると修復されます。
+interactions.154955d3.65c2b61d.text.0=ヒント：修繕がついているアイテムは、オフハンドで持ったり、身につけたりしてから蓮の花を食べると修復されます。
 
 interactions.154955d3.6819f008.title=木を持っていてもいい
 interactions.154955d3.6819f008.description=そして私の斧! GTアックスには木こり機能が内蔵されていて、序盤での丸太の切り倒しが楽になります。
@@ -184,7 +184,7 @@ interactions.154955d3.79371cf9.tasks.0.title=了解
 interactions.154955d3.79371cf9.text.0=おすすめキーバインド:
 interactions.154955d3.79371cf9.text.1=- クエストブックを開く: NUMPAD 1
 interactions.154955d3.79371cf9.text.2=- JEI材料にブックマーク: ミドルクリック
-interactions.154955d3.79371cf9.text.3=- 貧弱なRは多くのModで共有されてしまう
+interactions.154955d3.79371cf9.text.3=- 可哀想なことに、Rは多くのModで共有されてしまいます
 
 interactions.154955d3.7979431a.title=最初にここまでスクロールしてきた人は、頑張り屋さんです
 interactions.154955d3.7979431a.description=このブロックをクラフトしてオーバーワールドに行きたいでしょう。しかし死ぬかもしれないので、ゆっくりとクエストをこなして、より良い装備を手に入れてみてはいかがでしょうか。また、ポータルの反対側を無防備にしてはいけません。
@@ -194,7 +194,7 @@ interactions.154955d3.7979431a.text.2=アニメーションポータルブロッ
 interactions.154955d3.7a3fc83a.title=斧で殴る
 interactions.154955d3.7a3fc83a.description=序盤は、ほとんどのやり取りがインワールドで行われます。斧を持って丸太に右クリックを2回すると木材が出てきます。良い方法が見つかるまでは、ハングリー精神が必要です。
 interactions.154955d3.7a3fc83a.text.0=ノコギリ、自動ノコギリの使用するのが早いです。空腹度を使って手で何枚もの板を作る必要はありません。
-interactions.154955d3.7a3fc83a.text.1=このようにして作られた板は、8枚以下にします。
+interactions.154955d3.7a3fc83a.text.1=この方法で作る木材は8個もあれば足りるでしょう。
 
 interactions.154955d3.7d56d52e.title=Crash Course
 interactions.154955d3.7d56d52e.description=黒曜石を溶岩に変化させるアイテムがあれば。IF ONLY... (ヒント：賢者の石の英名と韻を踏んでいます)
@@ -223,7 +223,7 @@ interactions.154955d3.8ffc4093.title=Water you doing?
 interactions.154955d3.8ffc4093.description=物理学の仕組みさえ知っていれば、氷を溶かして水にすることができる。そして、氷を提供してくれる魔法のブロックがあれば。
 
 interactions.154955d3.98f4c3c6.title=The World is Your Table
-interactions.154955d3.98f4c3c6.description=EMCテーブルから砂利を取り出しし、Tinkersのフリントアックスヘッド用のフリントを作り、2x2のクラフトグリッドでストーンスティックと組み合わせます。
+interactions.154955d3.98f4c3c6.description=EMCテーブルから砂利を取り出し、Tinkersのフリントアックスヘッド用のフリントを作り、2x2のクラフトグリッドでストーンスティックと組み合わせます。
 interactions.154955d3.98f4c3c6.text.0=注：これらの道具はまだ修理できませんが、ボイドは喜んでそれを生け贄として受け取ります。
 
 interactions.154955d3.9c5fed89.title=The Wood Barber
@@ -285,7 +285,7 @@ interactions.154955d3.dcc3168e.description=歩くことなく、自分の基地�
 interactions.154955d3.e7d70489.title=ReadMe
 interactions.154955d3.e7d70489.description=錬金テーブルに本を入れてパックを倒す。おめでとうございます。
 
-interactions.154955d3.eb791b4a.description=ベースをよりきれいにするために
+interactions.154955d3.eb791b4a.description=拠点を美しくするために
 
 interactions.154955d3.ed1c9869.title=FTBUltimine!
 interactions.154955d3.ed1c9869.description=FTBUltimineは、非資源収集の利便性を目的としています。木の葉を刈ったり、アストラル寺院を集めたり、芝生を刈ったりすることができます。FTBUltimineは鉱脈や丸太をブラックリストに載せていますが、これはHammers/Drills/Lumber Axesが役に立たなくなるからです。デフォルトのキーはGRAVEです。
