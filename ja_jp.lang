@@ -1100,7 +1100,7 @@ interactions.99314095.3bd1ecaf.description=誤解を恐れずに言えば、蒸�
 interactions.99314095.3bd1ecaf.text.0=1Aの32Vを出力するので、1台で1台のLVマシンを駆動することができますが、2台くらい作ってもいいかもしれません。
 
 interactions.99314095.3c25bd45.tasks.0.title=電流を損しないための工夫
-interactions.99314095.3c25bd45.text.0=パワーの各ティアには、ケーブルに加工できる独自の魔法メタルがあります。これらのケーブルは、その階ティアの他のケーブルよりも優れており、基本的に4アンペアの伝送が可能で、距離によるeuの損失はゼロです。
+interactions.99314095.3c25bd45.text.0=パワーの各ティアには、ケーブルに加工できる独自の魔法メタルがあります。これらのケーブルは、その階ティアの他のケーブルよりも優れており、基本的に4アンペアの伝送が可能で、距離によるEUの損失はゼロです。
 
 interactions.99314095.56b12c95.title=LV時代
 
@@ -1655,7 +1655,7 @@ interactions.aa10a1a2.2c93dbb5.text.0=プラントインタラクターでは、
 interactions.aa10a1a2.2c93dbb5.text.1=あるいは、種子を生産してくれるキャノーラチキンを作ることもできます。
 
 interactions.aa10a1a2.3e7e47d0.title=The Generation Gap
-interactions.aa10a1a2.3e7e47d0.text.0=大型ボイラーの場合、最高温度に達すると、1ティックあたり900mbの蒸気が発生します。蒸気をLVに換算すると、32euあたり64mbの蒸気となります。
+interactions.aa10a1a2.3e7e47d0.text.0=大型ボイラーの場合、最高温度に達すると、1ティックあたり900mBの蒸気が発生します。蒸気をLVに換算すると、32EUあたり64mBの蒸気となります。
 interactions.aa10a1a2.3e7e47d0.text.1=つまり、LBBは14台のLVタービンを動かすことができるのです。このうち4台を高炉の動力源にすることをお勧めします。
 interactions.aa10a1a2.3e7e47d0.text.2=MV時代に突入することになります。
 interactions.aa10a1a2.3e7e47d0.text.4=大型ボイラーを2台設置すれば、変圧器を使ってHVに押し込むことも可能なほどの蒸気が得られますが
@@ -1686,7 +1686,7 @@ interactions.aa10a1a2.73fa51ac.description=MKIリアクターに似た構造で�
 interactions.aa10a1a2.7d0d44c4.title=EBFをHVパワーにアップグレードする時期
 interactions.aa10a1a2.7d0d44c4.text.0=HVパワーでEBFでHVに進むための材料を作る。
 
-interactions.aa10a1a2.7eaf5f76.title=1440 EU -> 2Mb
+interactions.aa10a1a2.7eaf5f76.title=1440 EU -> 2mB
 
 interactions.aa10a1a2.81146e1b.tasks.0.title=ディーゼルの改善
 interactions.aa10a1a2.81146e1b.text.0=HVに到達したことで、ディーゼルの生産と改良された最終製品の両方で、いくつかの改良ができるようになりました。
@@ -1756,7 +1756,7 @@ interactions.aa10a1a2.c4bcc6d3.title=あともう一息！
 interactions.aa10a1a2.c4bcc6d3.text.0=その結晶化したオイルは、蒸留によっていくつかのものに変えることができるので、最後の工程でどれだけ作るかを工夫してバランスを取る必要があります。
 
 interactions.aa10a1a2.c5c9f2f6.title=*Slaps engine* This bad boy can fit so much pollution in it.
-interactions.aa10a1a2.c5c9f2f6.description=デフォルトで2k eu/tのディーゼルレシピを使用したマルチブロックパワージェネレーター。酸素を添加することで6144eu/tまで上昇させることができます。まだ納得していない方は、シングルブロックジェネレーターよりも効率的にディーゼルを消費することができます。
+interactions.aa10a1a2.c5c9f2f6.description=デフォルトで2k EU/tのディーゼルレシピを使用したマルチブロックパワージェネレーター。酸素を添加することで6144EU/tまで上昇させることができます。まだ納得していない方は、シングルブロックジェネレーターよりも効率的にディーゼルを消費することができます。
 interactions.aa10a1a2.c5c9f2f6.text.0=Gregtechのポンプを使って、生産量に合わせて正確な流量を設定することもできます。供給が追いつかないからといって、オンオフを繰り返すのではなく、常に稼働させておく方が良いでしょう。このマルチブロックには少量の潤滑油が必要で、そうしないと最終的には焼き付いて動かなくなります。
 
 interactions.aa10a1a2.c726c9c9.title=蒸気生産の自動化、おめでとうございます!
@@ -1769,7 +1769,7 @@ interactions.aa10a1a2.chapter.description.3=進行状況に応じて、ここを
 interactions.aa10a1a2.d2697046.title=残酷な太陽
 interactions.aa10a1a2.d2697046.description="サンシャイン! それは私の輝かしい魔法だ"
 
-interactions.aa10a1a2.d26ea9a5.title=1920 EU -> 2Mb
+interactions.aa10a1a2.d26ea9a5.title=1920 EU -> 2mB
 
 interactions.aa10a1a2.ddd91cac.title=エンパワーメント、期待できそうですね。
 interactions.aa10a1a2.ddd91cac.text.0=HV化学反応器では、スターからロックボトムまで、両方の世界の最高のものをキャノーラに組み合わせることができます。
