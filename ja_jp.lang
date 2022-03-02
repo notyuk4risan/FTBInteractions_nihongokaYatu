@@ -1464,7 +1464,7 @@ interactions.a4a70422.4bbcd095.title=機械があなたのために仕事をし�
 interactions.a4a70422.4bbcd095.text.0=最後に、実際に工作を行うためのクラフティングコプロセッサが必要です。
 interactions.a4a70422.4bbcd095.text.2=マルチブロックは立方体の形をしていて、クラフト用のコプロセシングユニットとクラフト用のストレージユニットが最低1つずつ必要です。どのブロックからでもMEシステムに接続することができます。
 
-interactions.a4a70422.4d2f1f7f.text.0=アイテム、流体、パワーを無線で、しかも次元を超えて...これ以上何を望むのか？クッキー！？
+interactions.a4a70422.4d2f1f7f.text.0=アイテム、液体、パワーを無線で、しかも次元を超えて...これ以上何を望むのか？クッキー！？
 
 interactions.a4a70422.518a088a.text.0=インポートチェストをセットアップするには、チェストにシャーシを取り付け、エクストラクタのアップグレード（または複数）を追加します。その際、LPネットワークから電力が供給されていることを確認してください。次に、基本的なLPパイプを別のチェストに取り付け、パイプマネージャを使ってデフォルトルートに設定します。
 
@@ -1484,7 +1484,7 @@ interactions.a4a70422.589141bd.description=はじめてのホッパー
 interactions.a4a70422.589141bd.text.0=何事もどこかでスタートしなければならないのです。
 
 interactions.a4a70422.5b356a30.tasks.0.title=レッドストーン導管
-interactions.a4a70422.5b356a30.text.0=レッドストーン導管は、複数のレッドストーン信号を同じブロックに異なるチャンネルで通したり、信号の強さを設定したりすることができます。バニラのオートメーションを強化し、コンパクトにするのに非常に便利です。
+interactions.a4a70422.5b356a30.text.0=レッドストーン導管は、複数のレッドストーン信号を同じブロックに異なるチャンネルで通したり、信号の強さを設定したりすることができます。バニラの自動化を強化し、コンパクトにするのに非常に便利です。
 
 interactions.a4a70422.5b48c63b.text.0=We want to move it move ( item part ), but what actually? entry level filter.
 interactions.a4a70422.5b48c63b.text.1=そして、実際に物を動かすためには必要なものでもあります。
@@ -1503,7 +1503,7 @@ interactions.a4a70422.781141fd.text.1=流体レーザーは、1回のクリッ�
 interactions.a4a70422.78401cda.description=63種類のアイテムを最大サイズで収納します。
 
 interactions.a4a70422.78652784.title=Hop to It
-interactions.a4a70422.78652784.description=ホッパーホックは、特に樹林地からの出力を扱うのが得意です。アイテムフレームがある隣のインベントリに優先的に仕分けをします。残ったものはアイテムフレームのない隣のゴミ箱に入れられます。
+interactions.a4a70422.78652784.description=ホッパーホックは、特に樹林地からのアウトプットを扱うのが得意です。アイテムフレームがある隣のインベントリに優先的に仕分けをします。残ったものはアイテムフレームのない隣のゴミ箱に入れられます。
 
 interactions.a4a70422.7dba0de1.title=Deep Sink
 interactions.a4a70422.7dba0de1.description=これで本格的な貯蔵が可能になります。基本的な量子タンクでも128kバケツの液体を保存できます。
@@ -1530,7 +1530,7 @@ interactions.a4a70422.9431e9ff.text.0=9x9のストレージスロットを持っ
 interactions.a4a70422.995e98b6.title=レシピの保存
 interactions.a4a70422.995e98b6.text.0=あとは、レシピを保存する場所が必要です。
 interactions.a4a70422.995e98b6.text.2=マスアセンブラはマルチブロックで、端はマスアセンブラのフレームブロック、壁はマスアセンブラのベント、そしてベントの代わりに壁にマスアセンブラのコントローラが1つずつ入っています。このコントローラブロックにMEシステムを接続します。
-interactions.a4a70422.995e98b6.text.4=アセンブラは最大で8x8x8の立方体の形をしている必要があります。内側には、少なくとも1つのMAパターン・プロバイダーと少なくとも1つのMAクラフト・コプロセッサが必要です。残りのブロックは、空気またはそれ以上のパターンプロバイダとクラフトコプロセッサにすることができます。
+interactions.a4a70422.995e98b6.text.4=アセンブラは最大で8x8x8の立方体の形をしている必要があります。内側には、少なくとも1つのMAパターンプロバイダーと少なくとも1つのMAクラフト コプロセッサが必要です。残りのブロックは、空気またはそれ以上のパターンプロバイダとクラフトコプロセッサにすることができます。
 
 interactions.a4a70422.a00ff5a7.text.0=このシールは、ストアシールとよく似ていますが、一定量のアイテムをコンテナの中に入れておくことで、最低限のアイテムを確保し、在庫過多になるのを防ぐことができます。
 
@@ -1547,10 +1547,10 @@ interactions.a4a70422.ab7e2f6f.text.0=より複雑なオプションを利用し
 
 interactions.a4a70422.ab81e260.text.0=ポンプは部品を作るだけではありません！任意のGTマシンに置き、ドライバーを使ってGUIを開きます。
 
-interactions.a4a70422.ac6cf1f2.description=63種類のアイテムを収納でき、3回の投資で4倍の収納が可能です。
+interactions.a4a70422.ac6cf1f2.description=63種類のアイテムを収納でき、3個の投資で4倍の収納が可能です。
 
 interactions.a4a70422.acf09ff6.title=もう回避策はありません!
-interactions.a4a70422.acf09ff6.text.0=液体を必要とする機械でのオートクラフトを自動化することができます。必要な液体のレシピに体積フラスコを必要なサイズで追加するだけで、このインターフェースが自動的に液体を機械に送り込みます。
+interactions.a4a70422.acf09ff6.text.0=液体を必要とする機械でのオートクラフトを自動化することができます。必要な液体のレシピにメススフラスコを必要なサイズで追加するだけで、このインターフェースが自動的に液体を機械に送り込みます。
 
 interactions.a4a70422.bb862174.text.0=大量のアイテムを保管するために使用され、内部の在庫は1つのアイテムで21億4,748万3,647個を保管することが可能です。
 interactions.a4a70422.bb862174.text.1=ブラックホールユニットは壊しても中身が残るので、クラフト用のグリッドに置くことでクリアできます。
@@ -1572,7 +1572,7 @@ interactions.a4a70422.d16f1470.description=これらの強力なアイテムコ�
 interactions.a4a70422.db77a821.title=The Wonky Wobblers
 interactions.a4a70422.db77a821.description=これらのパイプは、アイテムをA地点からB地点に移動させるという基本的な仕事をしっかりとこなしてくれますが、オートメーションに挑戦するにはいくつかのクセがあります。スターターパイプとしては最適ですが、ベストではありません。
 
-interactions.a4a70422.dcabc080.text.0=コンジットバインダーは簡単に早く作ることができますが、便利なコンジットにするための他の材料は、今のところ手が届かないかもしれません。ここでは、そんなあなたの悩みを解消するための福祉用パイプをご紹介します。
+interactions.a4a70422.dcabc080.text.0=コンジットバインダーは簡単に早く作ることができますが、便利なコンジットにするための他の材料は、今のところ手が届かないかもしれません。ここでは、そんなあなたの悩みを解消するためのサテライトパイプをご紹介します。
 
 interactions.a4a70422.dd9ecae2.text.0=容量フィラーは、システム内に適切なサイズのフラスコがあれば、保存されている液体の種類に関わらず、どんなサイズのフラスコでも作ることができます。
 
@@ -1590,7 +1590,7 @@ interactions.a4a70422.e619360e.title=Laying Pipe
 interactions.a4a70422.e619360e.description=基本的なMekanismの機械式パイプは、液体の出し入れや、レッドストーンの起動の有効化・無効化を可能にします。ゲーム序盤の良い配管です。
 interactions.a4a70422.e619360e.text.0=ご存知ですか？Mekanismのパイプは、インワールドで次のレベルにアップグレードすることができます。次のレベルの合金を使用した8本までのケーブルのライン上で右クリックするだけで、すべてのケーブルがアップグレードされます。
 
-interactions.a4a70422.ec626521.text.0=同じですが、より大きくなりました！最大16スタック、64バケットのサイズで、1つのスロットに1024バケットを保存できます。
+interactions.a4a70422.ec626521.text.0=同じですが、より大きくなりました！最大16スタック、64バケツのサイズで、1つのスロットに1024バケツを保存できます。
 
 interactions.a4a70422.ee48409e.title=Steel Drum Band
 interactions.a4a70422.ee48409e.description=スチールを手に入れると、スチールドラムはブロンズよりも容量が大きくなりますが、機能は似ています。一般的には、Gregtechのドラムをスチールからアップグレードする価値はありません。
@@ -1599,13 +1599,13 @@ interactions.a4a70422.f18ebd20.text.1=それぞれの側面は、独立して異
 interactions.a4a70422.f18ebd20.text.2=各面のスロットは、左から順に、下、上、北、南、西、東となっています。また、長方形のスロットにカーソルを合わせると、この情報を確認することができます。このスロットは、10,000 mBまたは10個のバケットの内部バッファを表しています。
 
 interactions.a4a70422.f6041d91.title=物流の悪魔
-interactions.a4a70422.f6041d91.text.0=インベントリの仕分けや保管、クラフトや流体の管理など、ゲームを進めていくうちにどんどん複雑になっていくことでしょう。ロジスティクスパイプは、接続されたインベントリを管理するためのエレガントなソリューションを提供します。
+interactions.a4a70422.f6041d91.text.0=インベントリの仕分けや保管、クラフトや流体の管理など、ゲームを進めていくうちにどんどん複雑になっていくことでしょう。Logistics Pipeは、接続されたインベントリを管理するためのエレガントなソリューションを提供します。
 
 interactions.a4a70422.f60cd511.text.0=綺麗で清潔なセットアップを実現します。
 
 interactions.a4a70422.f74bda48.text.0=Ice Ice Baby, (Vanilla) btw.
 
-interactions.a4a70422.fcd1bb3f.text.0=アップグレードされたキャッシュ 十分なストレージではなく、この悪い子はあなたのために4096000のアイテムを保存します。
+interactions.a4a70422.fcd1bb3f.text.0=アップグレードされたキャッシュ 十分なストレージではなく、この悪い子はあなたのために4096k個のアイテムを保存します。
 
 interactions.a4a70422.fe00a2c1.text.0=そう、別のタイプのレンチです!
 
@@ -1618,7 +1618,7 @@ interactions.a4a70422.ffd4e888.tasks.0.title=エンダー液体導管
 interactions.a4a70422.ffd4e888.text.0=EnderIOの液体導管にはいくつかのティアがありますが、最上位のティアはエンダー液体導管です。液体の供給源から目的地までを瞬時にテレポートすることができ、より高度なGT処理に最適です。
 
 interactions.aa10a1a2.0298a797.title=ZPMディーゼル発電機
-interactions.aa10a1a2.0298a797.text.0=ZPMディーゼル発電機は、ディーゼルを燃焼させて1アンペアのZPMパワーを発生させることができるアップグレード（LUVのマルチブロックを文字通りアップグレードすることができます）です。酸素と、インフューズドニトロディーゼルまたはnacadriatic燃料のディーゼルインプットが必要です。
+interactions.aa10a1a2.0298a797.text.0=ZPMディーゼル発電機は、ディーゼルを燃焼させて1アンペアのZPMパワーを発生させることができるアップグレードです（LuVのマルチブロックを文字通りアップグレードすることができます）。酸素と、ニトロディーゼルまたはnacadriatic燃料のディーゼルインプットが必要です。
 
 interactions.aa10a1a2.0e127505.title=太陽は不思議な体をしています。立派な父親のように!
 interactions.aa10a1a2.0e127505.description=終盤の燃料生成へようこそ。これはおそらく、あなたが作るマルチブロックの中で最も複雑なものですので、よく聞いてください。
@@ -1630,61 +1630,61 @@ interactions.aa10a1a2.0e39506b.text.0=コンベアは、ゲーム序盤でアイ
 interactions.aa10a1a2.0e39506b.text.2=可能な限り、より優れた配管オプションに移行することをお勧めしますが、特に液体の輸送にはMekanismのパイプが次善の策となるでしょう。
 
 interactions.aa10a1a2.185b535b.title=原子の分裂 - LuV+パワー
-interactions.aa10a1a2.185b535b.text.0=光核分裂炉は、六フッ化ウランを使って膨大な量の蒸気を作り出すことができます。その出力を処理するために複数の蒸気タービンが必要になりますが、それでLuV級の電力を生産することができるでしょう。
+interactions.aa10a1a2.185b535b.text.0=光核分裂炉は、六フッ化ウランを使って膨大な量の蒸気を作り出すことができます。その出力を処理するために複数の蒸気タービンが必要になりますが、それでLuVクラスの電力を生産することができるでしょう。
 interactions.aa10a1a2.185b535b.text.2=この機械の設計図はEuclydesのダンジョンで見つけることができますし、できるようになったらクラフトすることもできます。
 
 interactions.aa10a1a2.2054d6e9.description=つまり、どの蒸留方法を選ぶかではなく、すべての蒸留方法を手に入れることができるのです。
 interactions.aa10a1a2.2054d6e9.text.0=蒸留塔の高さはかなりのものです。JEIのレシピをご覧ください。使用するレシピの出力ハッチ数＋ベースレイヤー数と同じ高さにする必要があります。
-interactions.aa10a1a2.2054d6e9.text.1=スチーム・クラックド・ヘビー・フューエルは最大11種類の出力があるので、12の高さのタワーを建てれば、すべてのレシピが可能です。
+interactions.aa10a1a2.2054d6e9.text.1=Steam-Cracked Heavy Fuelは最大11種類の出力があるので、12の高さのタワーを建てれば、すべてのレシピが使用可能です。
 
-interactions.aa10a1a2.210a1f85.title=丸太や炭を収納する
-interactions.aa10a1a2.210a1f85.text.0=その丸太をどこかに保存しておく必要があります。
+interactions.aa10a1a2.210a1f85.title=原木や木炭を収納する
+interactions.aa10a1a2.210a1f85.text.0=その原木をどこかに保存しておく必要があります。
 interactions.aa10a1a2.210a1f85.text.1=また、オーバーフロー対策も万全です(報酬のボイドアップグレードを覚えていますか？)
 
 interactions.aa10a1a2.25fe4035.title=Interactions燃料フローチャート ディーゼルからNaquadriaticまで!
 
 interactions.aa10a1a2.291c85cc.title=Upgrade !
-interactions.aa10a1a2.291c85cc.text.0=たくさんの機械を動かしていると、1台のボイラーでは追いつかなくなります。 ボイラーを増設するのではなく、現在のボイラーをアップグレードしてはいかがでしょうか。
+interactions.aa10a1a2.291c85cc.text.0=たくさんの機械を動かしていると1台のボイラーでは追いつかなくなります。 ボイラーを増設するのではなく、現在のボイラーをアップグレードしてはいかがでしょうか。
 interactions.aa10a1a2.291c85cc.text.1=インフラ全体はそのままで、唯一考慮しなければならないのは、パイプが生産に追いついているかどうかです。
 
 interactions.aa10a1a2.2be7c722.title=You've urned this
-interactions.aa10a1a2.2be7c722.description=LVの時代に進むと、より良い水源を作ることができます。水性アキュムレータは無料で水を作りますが、メカニズムポンプははるかに早く水を作りますが、エネルギーが必要です。選択はあなた次第です。
+interactions.aa10a1a2.2be7c722.description=LVの時代に進むと、より良い水源を作ることができます。用水集出装置は無料で水を作りますが、メカニズムポンプははるかに早く水を作りますがエネルギーが必要です。選択はあなた次第です。
 
 interactions.aa10a1a2.2c93dbb5.title=自動農場がほしい！
 interactions.aa10a1a2.2c93dbb5.text.0=プラントインタラクターでは、作物を右クリックすると、その作物が採取されます。このクエストでは、キャノーラ農場を作りたいと思います。
-interactions.aa10a1a2.2c93dbb5.text.1=あるいは、種子を生産してくれるキャノーラチキンを作ることもできます。
+interactions.aa10a1a2.2c93dbb5.text.1=あるいは、種子を生産してくれるCanola Chickenを作ることもできます。
 
 interactions.aa10a1a2.3e7e47d0.title=The Generation Gap
-interactions.aa10a1a2.3e7e47d0.text.0=大型ボイラーの場合、最高温度に達すると、1ティックあたり900mBの蒸気が発生します。蒸気をLVに換算すると、32EUあたり64mBの蒸気となります。
+interactions.aa10a1a2.3e7e47d0.text.0=大型ボイラーの場合、最高温度に達すると、1Tickあたり900mBの蒸気が発生します。蒸気をLVに換算すると、32EUあたり64mBの蒸気となります。
 interactions.aa10a1a2.3e7e47d0.text.1=つまり、LBBは14台のLVタービンを動かすことができるのです。このうち4台を高炉の動力源にすることをお勧めします。
 interactions.aa10a1a2.3e7e47d0.text.2=MV時代に突入することになります。
 interactions.aa10a1a2.3e7e47d0.text.4=大型ボイラーを2台設置すれば、変圧器を使ってHVに押し込むことも可能なほどの蒸気が得られますが
 interactions.aa10a1a2.3e7e47d0.text.5=それまでにディーゼルに切り替えることを検討すべきでしょう。(ボイラーは軽油や他の液体燃料でも動くんですよ！)
 
 interactions.aa10a1a2.50f6ce33.title=Wouldn't you just LuV a better diesel gen?
-interactions.aa10a1a2.50f6ce33.text.0=LuVディーゼル発電機は、ディーゼルを最も効率的に燃焼させ、1アンペアのLuVパワーを生み出すことができます。酸素と、インフューズドニトロディーゼルまたはnaquadriatic燃料のいずれかのディーゼルの入力が必要です。
+interactions.aa10a1a2.50f6ce33.text.0=LuVディーゼル発電機は、ディーゼルを最も効率的に燃焼させ、1アンペアのLuVパワーを生み出すことができます。酸素とニトロディーゼル、またはnaquadriatic燃料のいずれかのディーゼルの入力が必要です。
 
-interactions.aa10a1a2.51878972.tasks.0.title=スチームを完全に自動化するには？
+interactions.aa10a1a2.51878972.tasks.0.title=蒸気を完全に自動化するには？
 
 interactions.aa10a1a2.579a74b5.title=Almost there!
-interactions.aa10a1a2.579a74b5.text.0=その結晶化した種子に油を混ぜると、液体に近い状態で燃やして電力を得ることができるのです。
+interactions.aa10a1a2.579a74b5.text.0=そのCrystallized Canolaに油を混ぜると、液体に近い状態で燃やして電力を得ることができるのです。
 
-interactions.aa10a1a2.634fbd39.text.0=ラフト、燃料、マナ生成のためにクレオソートを蓄えておくといいでしょう。初期の段階ではスチールドラムが良いでしょうし、サーマルダイナミックタンクやメカニズムダイナミックタンクも良いでしょう。
-interactions.aa10a1a2.634fbd39.text.2=サーマル・ダイナミック・ポータブル・タンクは、エンチャントを施すと特に便利で、アップグレードされたタイプはエンチャントを施すと膨大な量を保持できます。
+interactions.aa10a1a2.634fbd39.text.0=クラフト、燃料、マナ生成のためにクレオソートを蓄えておくといいでしょう。初期の段階ではスチールドラムが良いでしょうし、Thermal Dynamicsのタンクやメカニズムのダイナミックタンクも良いでしょう。
+interactions.aa10a1a2.634fbd39.text.2=Thermal Dynamicsのポータブルタンクはエンチャントを施すと特に便利で、アップグレードされたタイプはエンチャントを施すと膨大な量を保持できます。
 interactions.aa10a1a2.634fbd39.text.4=もう一つの素晴らしい選択肢はMekanism Dynamic Tankで、非常に大きな量を安価に保持することができ、マルチブロックとしての見栄えも良いです。
 
 interactions.aa10a1a2.6b915af8.title=Remote power
 interactions.aa10a1a2.6b915af8.text.0=汚染された機械の近くで作物が育つのか？ おそらくそうでしょうが、遠隔地から電力を供給する方法があれば、より望ましい選択肢になります。
-interactions.aa10a1a2.6b915af8.text.1=CEF/CEUコンボを使用して、RFとGTパワーを変換することができます。スペクター・エナジー・インジェクターに電力を供給して、RFパワーを遠隔地に分配し、必要に応じてGTパワーに変換することができます（または変換しない）。
+interactions.aa10a1a2.6b915af8.text.1=CEF/CEUコンボを使用して、RFとGTパワーを変換することができます。スペクターエネルギーインジェクターに電力を供給して、RFパワーを遠隔地に分配し、必要に応じてGTパワーに変換することができます（または変換しない）。
 
 interactions.aa10a1a2.7185860a.title=pumping up the black gold.
 interactions.aa10a1a2.7185860a.text.0=また、Gregtechのポンプも使えます。何でもありですが、良いものもあれば悪いものもあります。
 
-interactions.aa10a1a2.73fa51ac.title=私がもっと熱く熱くなれれば
-interactions.aa10a1a2.73fa51ac.description=MKIリアクターに似た構造ですが、フュージョンコイルを使用しており、ZPMとUVエナジーハッチを使用した場合にのみ機能する。
+interactions.aa10a1a2.73fa51ac.title=もっと熱く熱くなれればなぁ
+interactions.aa10a1a2.73fa51ac.description=MK.1リアクターに似た構造ですが、フュージョンコイルを使用しており、ZPMとUVエナジーハッチを使用した場合にのみ機能する。
 
 interactions.aa10a1a2.7d0d44c4.title=EBFをHVパワーにアップグレードする時期
-interactions.aa10a1a2.7d0d44c4.text.0=HVパワーでEBFでHVに進むための材料を作る。
+interactions.aa10a1a2.7d0d44c4.text.0=HVパワーを用いてEBFでHVに進むための材料を作る。
 
 interactions.aa10a1a2.7eaf5f76.title=1440 EU -> 2mB
 
@@ -1692,7 +1692,7 @@ interactions.aa10a1a2.81146e1b.tasks.0.title=ディーゼルの改善
 interactions.aa10a1a2.81146e1b.text.0=HVに到達したことで、ディーゼルの生産と改良された最終製品の両方で、いくつかの改良ができるようになりました。
 
 interactions.aa10a1a2.9063ed56.title=液体の自由を手に入れる時
-interactions.aa10a1a2.9063ed56.tasks.0.title=地球温暖化はマインクラフトでも起きていることなので、基地を少しでも大きくすることを忘れないでください。
+interactions.aa10a1a2.9063ed56.tasks.0.title=地球温暖化はマインクラフトでも起きていることなので、拠点を少しでも大きくすることを忘れないでください。
 interactions.aa10a1a2.9063ed56.text.0=現実の世界が1つのエネルギー源に依存していないように、パワーのすべてのステップはあなたの生産を補完するものです。
 interactions.aa10a1a2.9063ed56.text.1=蒸気ボイラーはすべて液体燃料で運転することができ、特にディーゼルや高次の燃料は効率的です。
 
@@ -1715,7 +1715,7 @@ interactions.aa10a1a2.ad67ba55.text.3=この機会に、古いコークオーブ
 interactions.aa10a1a2.ad67ba55.text.4=最適な設定は、1つのICOで木炭を生産し、2つのICOでコークス炭を生産し、コークス炭とクレオソートをすべて大型の青銅ボイラーに配管してフルパワーで稼働させることです。
 
 interactions.aa10a1a2.b00b4e76.title=Another one?
-interactions.aa10a1a2.b00b4e76.text.0=はい、もう1つ。現在のツリービーコンにメンリル・ツリーを追加することができます。現在選択しているツリーのドロップ率が下がりますが（メンリル・ツリーを追加してもコークオーブンに追いつくでしょうか？
+interactions.aa10a1a2.b00b4e76.text.0=はい、もう1つ。現在のツリービーコンにMenril Treeを追加することができます。現在選択しているツリーのドロップ率が下がりますが（Menril Treeを追加してもコークオーブンに追いつくでしょうか？
 interactions.aa10a1a2.b00b4e76.text.1=それ以外にも、他の木で有用なドロップを提供するために、2つ目の木を検討したり、すでに設定したりしています。
 interactions.aa10a1a2.b00b4e76.text.3=ガスタービンは、メタンなどのガスを燃やして発電することができます。これは、ボイドではなく余剰分を生産している場合、電力網に貢献するのに便利です。
 
@@ -1748,12 +1748,12 @@ interactions.aa10a1a2.c35570d8.text.2=グレッグテックのポンプをカバ
 
 interactions.aa10a1a2.c48fa03d.tasks.0.title=EVパワーマルチブロック
 interactions.aa10a1a2.c48fa03d.text.0=非効率的なシングルブロックの発電機やタービンをすべて撤去する時が来ました。
-interactions.aa10a1a2.c48fa03d.text.1=発電機を使用して、CEUを備えたSpectreエネルギーインジェクターに電力を入力し、各マシンエリアでCEFを備えたEUにワイヤレスで変換するシステムです。
-interactions.aa10a1a2.c48fa03d.text.2=CEFのSpectreコイルは、クリーンなセットアップを可能にし、ベースのDirewireの状況を防ぐことができます。
+interactions.aa10a1a2.c48fa03d.text.1=発電機を使用して、CEUを備えたスペクターエネルギーインジェクターに電力を入力し、各マシンエリアでCEFを備えたEUにワイヤレスで変換するシステムです。
+interactions.aa10a1a2.c48fa03d.text.2=CEFのスペクターコイルは、クリーンなセットアップを可能にし、ベースのDirewireの状況を防ぐことができます。
 interactions.aa10a1a2.c48fa03d.text.3=フラックスネットワークを作ることができれば、さらに大きなパワーを動かすことができ、単一のネットワークではなく、チーム全体でそれを分配することができます。
 
 interactions.aa10a1a2.c4bcc6d3.title=あともう一息！
-interactions.aa10a1a2.c4bcc6d3.text.0=その結晶化したオイルは、蒸留によっていくつかのものに変えることができるので、最後の工程でどれだけ作るかを工夫してバランスを取る必要があります。
+interactions.aa10a1a2.c4bcc6d3.text.0=そのCrystallized Oilは、蒸留によっていくつかのものに変えることができるので、最後の工程でどれだけ作るかを工夫してバランスを取る必要があります。
 
 interactions.aa10a1a2.c5c9f2f6.title=*Slaps engine* This bad boy can fit so much pollution in it.
 interactions.aa10a1a2.c5c9f2f6.description=デフォルトで2k EU/tのディーゼルレシピを使用したマルチブロックパワージェネレーター。酸素を添加することで6144EU/tまで上昇させることができます。まだ納得していない方は、シングルブロックジェネレーターよりも効率的にディーゼルを消費することができます。
@@ -1762,9 +1762,9 @@ interactions.aa10a1a2.c5c9f2f6.text.0=Gregtechのポンプを使って、生産�
 interactions.aa10a1a2.c726c9c9.title=蒸気生産の自動化、おめでとうございます!
 
 interactions.aa10a1a2.chapter.title=このパーティーをどうやって盛り上げるか
-interactions.aa10a1a2.chapter.description.0=プロセスやオートメーションに必要なエネルギーに困っていませんか？
+interactions.aa10a1a2.chapter.description.0=プロセスや自動化に必要なエネルギーに困っていませんか？
 interactions.aa10a1a2.chapter.description.2=私は99の問題を抱えているが、パワーはその一つではありません。
-interactions.aa10a1a2.chapter.description.3=進行状況に応じて、ここをチェックして、各ティアに推奨されるパワーオプションを確認してください。これらはあくまでも提案であり、もしあなたが他のクリエイティブな方法でベースをパワーアップさせることができれば、さらにパワーアップすることになるでしょう...。
+interactions.aa10a1a2.chapter.description.3=進行状況に応じて、ここをチェックして、各ティアに推奨されるパワーオプションを確認してください。これらはあくまでも提案であり、もしあなたが他のクリエイティブな方法で拠点をパワーアップさせることができれば、さらにパワーアップすることになるでしょう...。
 
 interactions.aa10a1a2.d2697046.title=残酷な太陽
 interactions.aa10a1a2.d2697046.description="サンシャイン! それは私の輝かしい魔法だ"
@@ -1784,13 +1784,13 @@ interactions.aea6d983.0b123dfe.description=全ての、そして全てのベー�
 interactions.aea6d983.0b123dfe.text.0=賢い鶏が必要？本で叩いてみましょう。
 
 interactions.aea6d983.17f4c598.title=驚異的な宇宙の力……ちっぽけな卵
-interactions.aea6d983.17f4c598.text.0=魔法と技術の究極の融合、それが「インフィニティ・チキン」です。その卵は6種類の方法で加工され、あらゆる種類の高級素材を素早く作り出すことができます。
+interactions.aea6d983.17f4c598.text.0=魔法と技術の究極の融合、それが「Infinity Chicken」です。その卵は6種類の方法で加工され、あらゆる種類の高級素材を素早く作り出すことができます。
 
 interactions.aea6d983.19cae765.title=Radon Man!
 interactions.aea6d983.19cae765.text.0=ラドンは手間がかかりますし、プルトニウムを作るのも大変な作業です。しかし、少しでも手に入れば、ラドンチキンを作ることを検討することができます。そのアイテムを使えば、ラドンをより早く作ることができます。
 
 interactions.aea6d983.1ca6ea6f.title=I've lost my...
-interactions.aea6d983.1ca6ea6f.text.0=アパタイトにはいくつかの精製用途がありますが、その中でも最も重要なのがフィトグロウの生産です。このチキンは、フィトジェンティクの自動化を助ける小さなパイルを直接生産します。
+interactions.aea6d983.1ca6ea6f.text.0=アパタイトにはいくつかの精製用途がありますが、その中でも最も重要なのがPhyto-groの生産です。このチキンは、フィトジェンティクの自動化を助けるSmall Pileを直接生産します。
 
 interactions.aea6d983.1d1cc9e9.title=ニワトリの星
 interactions.aea6d983.1d1cc9e9.text.0=このアストラルバードは、天空の卵を産みます。濃縮された卵をライトウェルに入れておくと、スターライト生成の触媒となる。すぐに割れてしまいますが、それなりの量のスターライトを生成します。
@@ -1807,14 +1807,14 @@ interactions.aea6d983.36f5aaef.text.1=また、オーバーワールドのダン
 
 interactions.aea6d983.4362463c.text.0=スパイスを使った料理を作りたいと思っても、そのスパイスを手に入れるのは難しいものです。
 
-interactions.aea6d983.492570b8.text.0=まあ、それは仕方のないことだと思います。しかし、自然は適応するものであり、私はSMOGチキンを開発しました。この鶏は廃棄物を住処とし、卵から汚泥を生成して、それを直接利用することができます。
-interactions.aea6d983.492570b8.text.1=炭の副産物は、熱分解炉の必要性は全くありません。最良の結果を得るためには、蒸留塔を適用します。
+interactions.aea6d983.492570b8.text.0=まあ、それは仕方のないことだと思います。しかし、自然は適応するものであり、私はSmog Chickenを開発しました。この鶏は廃棄物を住処とし、卵から汚泥を生成して、それを直接利用することができます。
+interactions.aea6d983.492570b8.text.1=Charcoal Byproductは、熱分解炉の必要性は全くありません。最良の結果を得るためには、蒸留塔を適用します。
 
 interactions.aea6d983.50f6df4e.title=輝きの星
 interactions.aea6d983.50f6df4e.text.0=この魔法の獣は、ラティスの作成を自動化するのに役立ちます...。今までよりも良い音がするでしょう？ 余談ですが、これはネザースターの供給源でもあるかもしれません。
 
 interactions.aea6d983.5681a1ea.text.0=2羽のニワトリをブリーダーに入れると、より強いステータスを持った新しい鶏が生まれます。このプロセスを繰り返して、生産量が最大の10/10/10のニワトリを手に入れてください。
-interactions.aea6d983.5681a1ea.text.1=特別なチキンを1羽作ったら、スマートチキンと交配して2羽目を作ることができます（または、スマートチキンをもっと増やすことができます。
+interactions.aea6d983.5681a1ea.text.1=特別なチキンを1羽作ったら、スマートチキンと交配して2羽目を作ることができます（または、スマートチキンをもっと増やすことができます。）
 
 interactions.aea6d983.72ad469d.text.0=陶器は序盤ではTiCメルターのために少量必要ですが、それ以外の主な用途は装飾です。このチキンは、装飾用に大量に生産するのに役立ち、ゲーム序盤で安価に作成できます。
 
@@ -1833,7 +1833,7 @@ interactions.aea6d983.9f3575c5.text.0=飼っている鶏が逃げ出して、庭
 
 interactions.aea6d983.b1c239fe.text.0=エンダーボイ。この鶏は、EnderIOテレポーターの動力源となるエンダリウムダストと、その他の有用な副産物のために遠心分離することができるdew of the voidを生成することができる。
 
-interactions.aea6d983.b5162011.text.0=モブやロータスの農場の代わりに、ラーニング鶏の卵を採取して液体の経験値を得ることができます。
+interactions.aea6d983.b5162011.text.0=モブやロータスの農場の代わりに、Learning Chickenの卵を採取して液体の経験値を得ることができます。
 
 interactions.aea6d983.b9354c30.text.0=花崗岩からフッ素を自動抽出することはできますが、機械を何台も使って時間をかけて行います。このチキンを使えば、卵からフッ素の一部を抽出することができるので、その点を軽減することができます。経口摂取には適していません。
 
@@ -1855,14 +1855,14 @@ interactions.aea6d983.e7b7c72c.text.0=この血塗られた忌まわしいもの
 interactions.aea6d983.f3dada63.title=食用じゃありません！
 interactions.aea6d983.f3dada63.text.0=この鶏は、直接プラスチックを生産することはできませんが、卵を直接エタノールと組み合わせてポリエチレンを生産することで、ポリエチレンの生産チェーンのいくつかのステップを回避することができます。
 
-interactions.aea6d983.fc4f136e.text.0=Euclydesのダンジョンで発見される。精製すると無限に銅が得られるビトリオリック溶液が得られます。
+interactions.aea6d983.fc4f136e.text.0=Euclydesのダンジョンで発見される。精製すると無限に銅が得られる硫酸銅溶液が得られます。
 
 interactions.aea6d983.fee8cda4.title=ツリーファームを必要としている人は?
-interactions.aea6d983.fee8cda4.text.0=ツリービーコンでfpsが低下？大量の丸太をパイプで運ぶのに疲れましたか？そんな悩みを解決してくれるのが、このメンリル・チキンです。このニワトリを10/10/10まで繁殖させれば、ディーゼル生産ライン全体をまかなえるだけのメンリル・クリスタルを素早く生産することができます。
+interactions.aea6d983.fee8cda4.text.0=ツリービーコンでfpsが低下？大量の丸太をパイプで運ぶのに疲れましたか？そんな悩みを解決してくれるのが、このメンリル・チキンです。このニワトリを10/10/10まで繁殖させれば、ディーゼル生産ライン全体をまかなえるだけのMenril Crystalを素早く生産することができます。
 
 interactions.b1d7d7b9.0220d6bb.title=Buckets? Those are Rookie Numbers
 interactions.b1d7d7b9.0220d6bb.description=その数字を上げるためには、ポンプが必要です。海や砂漠で石油の間欠泉を見つけて、それを汲み上げてください。FEエネルギーに変換するためのCEUと、留守中に電力を供給するためのバッテリーが必要になります。
-interactions.b1d7d7b9.0220d6bb.text.0=ポンプに電力を供給するためには、バッテリーバッファとCEU、またはSpectreワイヤレスエネルギートランスミッターを使用することができます。液体の移送には、Cyclic wirelss fluid transfer nodeを使用することができます(同じディメンションのみ)。
+interactions.b1d7d7b9.0220d6bb.text.0=ポンプに電力を供給するためには、バッテリーバッファとCEU、またはSpectreワイヤレスエネルギートランスミッターを使用することができます。液体の移送には、CyclicのFluid Transfer Nodeを使用することができます(同じディメンションのみ)。
 
 interactions.b1d7d7b9.0608c105.title=水素
 interactions.b1d7d7b9.0608c105.description=燃えやすい
@@ -1884,14 +1884,14 @@ interactions.b1d7d7b9.1c570525.title=爆発的な面白さ
 
 interactions.b1d7d7b9.2853e86e.title=Rubber Band Man
 interactions.b1d7d7b9.2853e86e.description=これで、原料を有用なゴムに加工できるようになりました。どちらのルートでも硫黄が必要ですが、生ゴムを使うか、樹脂を使うかはあなた次第です。
-interactions.b1d7d7b9.2853e86e.text.0=硫黄はシナバー鉱石を加工して得られるほか、少量であれば銀や鉛からも得ることができます。ネザーに行けば、硫黄は鉱石として豊富にあり、ブレイズパウダーから精製することもできます。
+interactions.b1d7d7b9.2853e86e.text.0=硫黄は辰砂鉱石を加工して得られるほか、少量であれば銀や鉛からも得ることができます。ネザーに行けば、硫黄は鉱石として豊富にあり、ブレイズパウダーから精製することもできます。
 
 interactions.b1d7d7b9.29825601.title=塩水
 interactions.b1d7d7b9.29825601.description=塩水を遠心分離機にかけると、塩水と液体リチウムの両方が得られます。塩水は、化学で使う塩素を作るのに適しています。リチウムはリチウムダストにして、バッテリーやその他の用途に使うことができます。
 interactions.b1d7d7b9.29825601.text.0=また、型を使って、塩水を直接塩にする方法もあります。こちらの方が早く塩を作ることができますが、副産物がなくなってしまいます。
 
 interactions.b1d7d7b9.2d5c8742.title=Log log it's better than bad it's wood
-interactions.b1d7d7b9.2d5c8742.description=メンリル・ログを抽出することで、メンリル・クリスタルが得られます。この結晶を遠心分離すると、液体メンリル・メタン・炭素など、多くの有用な副産物が得られます。
+interactions.b1d7d7b9.2d5c8742.description=メンリルの原木を抽出することで、Menril Crystalが得られます。この結晶を遠心分離すると、液体メンリル・メタン・炭素など、多くの有用な副産物が得られます。
 
 interactions.b1d7d7b9.496aec7e.title=Watching water boil
 interactions.b1d7d7b9.496aec7e.description=塩水とリチウムを作るために蒸発塔を加熱するには、有効な熱源が必要です。抵抗発熱機のために木材や燃料を燃やしたり、FEエネルギーを使用します。
@@ -1902,20 +1902,20 @@ interactions.b1d7d7b9.4addfa03.text.0=ワイヤレス転送は同一次元内で
 interactions.b1d7d7b9.4bbf5b6a.title=塩素
 interactions.b1d7d7b9.4bbf5b6a.description=塩素は多くの化学反応の基礎となる。幸いなことに、塩素を作るのはとても簡単です。塩を電気分解すると、塩素とナトリウムに分離されます。
 
-interactions.b1d7d7b9.4be04c93.title=硫化ナフサ
-interactions.b1d7d7b9.4be04c93.description=このような無駄な化学物質をバケツに入れることを要求するつもりはありません。もう、うざったい!クエストブック。実践。
-interactions.b1d7d7b9.4be04c93.text.0=硫黄ナフサは、石油を直接蒸留するか、または蒸留器を使って得ることができ、高度なエンパワードオイルではこの副産物も得られる。
+interactions.b1d7d7b9.4be04c93.title=Sulufic Naphtha
+interactions.b1d7d7b9.4be04c93.description=このような無駄な化学物質をバケツに入れることを要求するつもりはありません。もう、うざったい! クエストブック、実践！
+interactions.b1d7d7b9.4be04c93.text.0=硫黄ナフサは、石油を直接蒸留するか、または蒸留器を使って得ることができ、高度なEmpowerd Oilではこの副産物も得られる。
 
 interactions.b1d7d7b9.4c03fcd9.text.0=水と硫黄を使って、いくつかの化学物質の重要な前駆体である硫酸を作ることができます。
 
-interactions.b1d7d7b9.54b7c3b0.title=ナフサ
+interactions.b1d7d7b9.54b7c3b0.title=Naphtha
 interactions.b1d7d7b9.54b7c3b0.text.0=水素と硫化ナフサで精製ナフサができます。これはそのままでも燃料になりますが、もっといい使い方があります。
 
-interactions.b1d7d7b9.5a005611.title=スチームクラックド・ナフサ
+interactions.b1d7d7b9.5a005611.title=Steam-Cracked Naphtha
 interactions.b1d7d7b9.5a005611.description=マジで疑問なんだが、なぜ蒸気を加えると黒くなったのか？
 
 interactions.b1d7d7b9.64abbac6.title=Against oil odds
-interactions.b1d7d7b9.64abbac6.description=石油は、オーバーワールドのメサとDeep Oceanのバイオームにある大きな間欠泉で生成されます。
+interactions.b1d7d7b9.64abbac6.description=石油は、オーバーワールドのMesaとDeep Oceanのバイオームにある大きな間欠泉で生成されます。
 interactions.b1d7d7b9.64abbac6.text.0=石油はパワーを供給し、ペトロペチュニアを介してマナを供給し、さらに精製して数多くの有用な副産物を生成し、あらゆる化学的ニーズに応えることができます。石油化学製品を利用するための最適な方法については、燃料進行クエストラインを参照してください。
 
 interactions.b1d7d7b9.6ce21c6c.text.0=トルエンはいくつかの方法で石油から精製することができます。ここではスモッグチキンをお勧めしますが、最終的にはあなた次第です。最終的にはニュートロニウムや宝石の生産に大量に必要になります。
@@ -1923,15 +1923,15 @@ interactions.b1d7d7b9.6ce21c6c.text.0=トルエンはいくつかの方法で石
 interactions.b1d7d7b9.710b7cd7.title=Are you Gellin?
 interactions.b1d7d7b9.710b7cd7.description=液体を固める装置と金型があれば、特定の液体を有用な副産物として固めることができます。
 
-interactions.b1d7d7b9.76c508fd.title=結晶化したオイル
-interactions.b1d7d7b9.76c508fd.description=石油と結晶化したキャノーラ種子を混合することで、精製された重油の副産物を作ることができ、最終的にはより安価なディーゼル燃料の生産につながります。
+interactions.b1d7d7b9.76c508fd.title=Crystallized Oil
+interactions.b1d7d7b9.76c508fd.description=石油とCrystallized Canola Seedを混合することで、精製された重油の副産物を作ることができ、最終的にはより安価なディーゼル燃料の生産につながります。
 interactions.b1d7d7b9.76c508fd.text.0=歩留まりを上げるためには、このステップは任意です。歩留まりが悪い場合は、直接オイルを精製することもできます。
 
-interactions.b1d7d7b9.780a058d.text.0=アセンブラの多くのレシピでは、ケーブルの被覆などにゴムを使用します（カーペットの代わりになります）。また、コンベヤーモジュールなどのためにゴムをシート状にするためにフルイド・ソリディフィアーを使用する必要があるかもしれません。
+interactions.b1d7d7b9.780a058d.text.0=アセンブラの多くのレシピでは、ケーブルの被覆などにゴムを使用します（カーペットの代わりになります）。また、コンベヤーモジュールなどのためにゴムをシート状にするために液体成型機を使用する必要があるかもしれません。
 
 interactions.b1d7d7b9.79ebddca.tasks.0.title=軽油
 
-interactions.b1d7d7b9.7f0e32a6.text.0=水を電気分解すれば、化学的に必要な酸素と水素が得られます。また、ガス鶏の卵を使って直接水素を作ることもできます。 
+interactions.b1d7d7b9.7f0e32a6.text.0=水を電気分解すれば、化学的に必要な酸素と水素が得られます。また、Gassy Chickenの卵を使って直接水素を作ることもできます。 
 
 interactions.b1d7d7b9.820b1cf6.title=Gettin' Salty
 interactions.b1d7d7b9.820b1cf6.description=アクアマンは世界の塩分濃度を回復させるためにあなたの助けを必要としています。
@@ -1948,7 +1948,7 @@ interactions.b1d7d7b9.ba875a99.title=硫酸
 interactions.b1d7d7b9.ba875a99.description=硫酸は簡単に言えば、硫黄と水です。硫黄は、ブレイズデータモデルを備えたシミュレーションチャンバーで入手できるブレイズパウダーや、その他多くの情報源から得ることができます。
 
 interactions.b1d7d7b9.bd9959ca.title=スティッキー・ビジネス
-interactions.b1d7d7b9.bd9959ca.description=木の根元に設置された「アーボリアルエクストラクター(Arboreal extractor)」を使って樹脂を抽出し、さらにゴムに加工することができます。これがゴムを作る3つの方法のうちの1つです。
+interactions.b1d7d7b9.bd9959ca.description=木の根元に設置された「Arboreal extractor」を使って樹脂を抽出し、さらにゴムに加工することができます。これがゴムを作る3つの方法のうちの1つです。
 
 interactions.b1d7d7b9.be976ee3.text.0=樹脂は、ゴムの代替となる効率的な製造方法として利用できます。
 
@@ -1997,8 +1997,8 @@ interactions.bc233ece.3c8719d8.text.0=インフィニティの粒を自動化す
 interactions.bc233ece.3c8719d8.text.1=この霧で発生したモブは、インフィニティの粒を落とします。この粒はライトウェルでナイトメアの液体に加工され、さらに粒に戻るという自己増殖的なループになります。自動的にモブを殺してスポーンさせる方法を探しましょう！
 interactions.bc233ece.3c8719d8.text.2=クリックすると、チャレンジが完了します。この霧の中では、わずかな確率で点火済みTNTが発生することに注意してください。Animusの淘汰の儀式は、これらのTNTを即座に破壊させます。
 
-interactions.bc233ece.5c13f17c.title=エンパワーメントオイル
-interactions.bc233ece.5c13f17c.description=電力インフラが十分に整ったら、結晶化したキャノーラにインフィニティの粒と液体スターライトを加えて、燃料の生産量をさらに増やし、軽油や重油を使わずに直接ディーゼルを生産できるようになります。
+interactions.bc233ece.5c13f17c.title=Empowered Oil
+interactions.bc233ece.5c13f17c.description=電力インフラが十分に整ったら、Crystallized Canora Seedにインフィニティの粒と液体スターライトを加えて、燃料の生産量をさらに増やし、軽油や重油を使わずに直接ディーゼルを生産できるようになります。
 
 interactions.bc233ece.82176608.title=ポリテトラフルオロエチレンの製造フローチャート
 
@@ -2014,20 +2014,20 @@ interactions.bc233ece.d03a9479.text.0=最初のプルトニウムを手に入れ
 interactions.bc233ece.d03a9479.text.1=ラドンがあれば、改良エンダーアイやネザースター、ハイエンドエミッターの重要なエンパワーメントコンポーネント、その他のEV以降のティアコンポーネントを作ることができます。
 interactions.bc233ece.d03a9479.text.2=また、ラドンチキンもあり、投資する価値は十分にあります。
 
-interactions.bdc0ae1a.0a6c2138.title=自動化されたナクレ - 初期の方法の例
+interactions.bdc0ae1a.0a6c2138.title=自動化されたNacre - 初期の方法の例
 
 interactions.bdc0ae1a.10775b47.title=最も純粋なもの
 interactions.bdc0ae1a.10775b47.description=このピュアデイジーを持つピーチ姫は、花の名前を付けられなかったことに嫉妬するでしょう。
 
 interactions.bdc0ae1a.1b10cc2d.title=希薄な夢
-interactions.bdc0ae1a.1b10cc2d.description=希薄なマナプールを作ってスタートしました。
+interactions.bdc0ae1a.1b10cc2d.description=Diluted Mana Poolを作ってスタートしました。
 
 interactions.bdc0ae1a.22644b75.title=すべての花を創造する
-interactions.bdc0ae1a.22644b75.description=通常のボタニアの花は生成されません。花びらを作るか、「翡翠のアマランサス」をクラフトしてマナを使って花を生成しましょう。
+interactions.bdc0ae1a.22644b75.description=通常のボタニアの花は生成されません。花びらを作るか、「Jaded Amaranthus」をクラフトしてマナを使って花を生成しましょう。
 
 interactions.bdc0ae1a.430d8d06.title=自動化に興味があるようですね
 interactions.bdc0ae1a.430d8d06.text.0=これを自動化してください。最終的にはたくさん必要になります。
-interactions.bdc0ae1a.430d8d06.text.1=ナクレは魔法のような液体で、いくつかのMODの重要な部品を作るために使われます。手動で作成することもできますがかなりの量が必要になるため、自動化することをお勧めします。
+interactions.bdc0ae1a.430d8d06.text.1=Nacreは魔法のような液体で、いくつかのMODの重要な部品を作るために使われます。手動で作成することもできますがかなりの量が必要になるため、自動化することをお勧めします。
 
 interactions.bdc0ae1a.7df3941b.title=Conquer yourself!"　Navi 
 
@@ -2050,7 +2050,7 @@ interactions.e0f1e33e.2f81abca.text.0=飛行の力を利用するか、退屈な
 interactions.e0f1e33e.666a29ec.title=Data Storage
 interactions.e0f1e33e.666a29ec.text.0=欠陥のあるモデルに必要な初期データを追加するには、Deep Learnerが必要です。
 interactions.e0f1e33e.666a29ec.text.1=データモデルをソケット化するには、Shift+右クリックをする必要があります。ソケット化した後は、そのモブタイプを倒すたびに1つのデータが追加されます。
-interactions.e0f1e33e.666a29ec.text.2=Basic Tierに達したモデルは、Polymer ClayのSimulation Chamberで使用することでデータを得ることができます。
+interactions.e0f1e33e.666a29ec.text.2=Basic Tierに達したモデルは、ポリマークレイをSimulation Chamberで使用することでデータを得ることができます。
 
 interactions.e0f1e33e.6d257ec8.title=30日間の無料体験
 interactions.e0f1e33e.6d257ec8.text.0=試練はボタニアの深い魔法への入り口であり、グリッチハートはさらにグリッチインゴットに加工され、ルニック祭壇やグリッチアーマーを作ることができます。
@@ -2061,7 +2061,7 @@ interactions.e0f1e33e.b32e5958.text.0=少しの金、ラピス、水を加えれ
 
 interactions.e0f1e33e.cbbc96a7.text.0=シミュレーション・チャンバーは、Deep Mob Learningの世界への入り口です。
 interactions.e0f1e33e.cbbc96a7.text.1=エンダーパールやブレイズパウダーなどのモブドロップは、ポリマークレイを使って何もないところから作ることができます。
-interactions.e0f1e33e.cbbc96a7.text.2=この機能を利用するには、希望のモブタイプのディープラーニングモジュールを作成し、ディープラーナーで少しレベルを上げる必要があります。準備ができたらモジュールを挿入し、ラーナーにパワーを与えてドロップの生産を開始します。
+interactions.e0f1e33e.cbbc96a7.text.2=この機能を利用するには、希望のモブタイプのDeep Learning Moduleを作成し、Deep Leanerで少しレベルを上げる必要があります。準備ができたらモジュールを挿入し、Learnerにパワーを与えてドロップの生産を開始します。
 
 interactions.e0f1e33e.chapter.title=Simulating Consciousness
 
@@ -2083,14 +2083,14 @@ interactions.e5a2c94a.6b3d5ea4.title=苦しむ方が精神的に高貴である�
 interactions.e5a2c94a.6b3d5ea4.text.0=- ウィザースケルトンはこれまで以上に見つけやすくなっています。ネザーのいたるところに出現します。
 interactions.e5a2c94a.6b3d5ea4.text.1=- また、通常のスケルトンが持つすべてのバフも受けています。
 interactions.e5a2c94a.84fe3251.title=闇の中の光
-interactions.e5a2c94a.84fe3251.text.0=グローストーンはネザーで採掘したり、レッドストーンから遠心分離したり、アマランスの花を使って再生可能にすることができます。一度作成した花は、フィトジェニック・インソレーターで無期限に育てることができます。
+interactions.e5a2c94a.84fe3251.text.0=グローストーンはネザーで採掘したり、レッドストーンから遠心分離したり、アマランスの花を使って再生可能にすることができます。一度作成した花は、フィトジェニック・インソレーターで無限に育てることができます。
 
 interactions.e5a2c94a.aba3c3ae.title=燃え盛れ
 interactions.e5a2c94a.aba3c3ae.text.0=- ブレイズはこれまで以上に見つけやすくなっています。ブレイズはネザー内のあらゆる場所に出現します。
 interactions.e5a2c94a.aba3c3ae.text.1=- また、以前よりもHPが10アップしています。
 interactions.e5a2c94a.aba3c3ae.text.2=- 倒されるときに小さな爆発を起こすので気を付けてください。
 interactions.e5a2c94a.aba3c3ae.text.3=- ブレイズは、近接武器で攻撃するとノックバックを受け、反動でダメージを受けてしまいます。
-interactions.e5a2c94a.aba3c3ae.text.4=- すごく近づいたときに触らないようにしないと、炎上してしまいます。
+interactions.e5a2c94a.aba3c3ae.text.4=- 接近するときは触らないようにしないと、炎上してしまいます。
 
 interactions.e5a2c94a.c23e1424.title=攻撃的な豚の声
 interactions.e5a2c94a.c23e1424.text.0=- ゾンビピッグマンは、これまで以上に攻撃的になっています。触れると敵意をむき出しにします。
@@ -2106,9 +2106,9 @@ interactions.e5a2c94a.ce3dc75f.title=ネザーのマンガン鉱脈
 interactions.e5a2c94a.ce3dc75f.description=Yレベル5～40の間で生成されます。ボーキサイト鉱脈にはマンガンの副産物もあるので、必要ならばそちらをどうぞ。
 
 interactions.e5a2c94a.chapter.title=絶対に安全ではない空間
-interactions.e5a2c94a.chapter.description.0=このタブには、オレゴンやモブの行動、ダンジョンなど、ネザーの変化に関する情報が含まれています。
+interactions.e5a2c94a.chapter.description.0=このタブには、鉱石生成やモブの行動、ダンジョンなど、ネザーの変化に関する情報が含まれています。
 
-interactions.e5a2c94a.e7cd2094.title=ネザーのスティブナイトとテトラヘドライトの鉱脈
+interactions.e5a2c94a.e7cd2094.title=ネザーのStibniteとTetrahedriteの鉱脈
 
 interactions.ed136c16.080f8d40.title=電源投入
 interactions.ed136c16.080f8d40.text.0=サイバーウェアの改造には電力が必要なので、内部に電源を用意する必要があります。コンデンサを取り付けた後、充電器の上に立って充電します。
@@ -2126,9 +2126,9 @@ interactions.ed136c16.1d985202.description=3つの砂利で1つの火打石が�
 
 interactions.ed136c16.255c4b59.title=Building Gadgets Mod Spotlight
 
-interactions.ed136c16.36ebc706.description=スペクトルコイルは、スペクトルストレージを設置した人からエネルギーを抽出します。RFを使用するあらゆる機器のワイヤレスパワーに最適です。
+interactions.ed136c16.36ebc706.description=スペクターコイルは、スペクターストレージを設置した人からエネルギーを抽出します。RFを使用するあらゆる機器のワイヤレスパワーに最適です。
 
-interactions.ed136c16.3b2493ea.text.0=このヘッドのハンマーには、非常に高い耐久性に加えて、素晴らしいエンチャントが組み込まれています。
+interactions.ed136c16.3b2493ea.text.0=このHammer Headには、非常に高い耐久性に加えて、素晴らしいエンチャントが組み込まれています。
 
 interactions.ed136c16.45cfffdd.title=Null Square
 interactions.ed136c16.45cfffdd.description=ここに保存されたアイテムは削除される可能性があります。重要なファイルをゴミ箱に保存するのはやめましょう。
@@ -2146,7 +2146,7 @@ interactions.ed136c16.4d2f6dce.title=廉価版ツール
 interactions.ed136c16.4d2f6dce.text.0=より良い金属を適切に成形するための高度な機械を手に入れるまでは、TiCには低価格で安価な素材しか使用できません。
 interactions.ed136c16.4d2f6dce.text.2=石の道具でも、レッドストーンやダイヤモンド、研磨キットを使ってアップグレードすれば、工夫次第で十分に活躍できます。また、石材を使って安価に修理できるのも魅力的です。
 
-interactions.ed136c16.562ac0bd.description=地獄の注入された本棚は、それぞれ通常の本棚の2倍のエンチャント力を持ち、エンチャントレベル50を超える（最大150まで）ために必要です。
+interactions.ed136c16.562ac0bd.description=Hell-infusionされた本棚は、それぞれ通常の本棚の2倍のエンチャント力を持ち、エンチャントレベル50を超える（最大150まで）ために必要です。
 
 interactions.ed136c16.5633991b.tasks.0.title=寛容さ!
 interactions.ed136c16.5633991b.text.0=ロボサージョンの右端にあるバーは、あなたの許容範囲を示しています。耐性は100しかありませんが、赤になると体があなたのサイバーウェアを拒否し始めますのでご注意ください。
@@ -2163,14 +2163,14 @@ interactions.ed136c16.61ac4cf4.description=装備品やエンボス加工のた�
 
 interactions.ed136c16.635d5fcc.title=Snowflake Air
 interactions.ed136c16.635d5fcc.text.0=Mekanismの機械は、一般的なGT素材を分解してガス状にしたものを使用する。正しい種類の気体に変換するためには、設定1の回路を使って化学反応器に酸素や水素を入れて、Mekanism液体に変換する必要がある。
-interactions.ed136c16.635d5fcc.text.1=Mekanismの酸素と水素を手に入れたら、ロータリーコンデストレーターを使って、ジェットパックやスキューバギア、火炎放射器を動かすためのガスに変えることができます。
+interactions.ed136c16.635d5fcc.text.1=Mekanismの酸素と水素を手に入れたら、Rotary Condensentratorを使って、ジェットパックやスキューバギア、火炎放射器を動かすためのガスに変えることができます。
 
 interactions.ed136c16.637db57f.title=これがトライアンフだ
 interactions.ed136c16.637db57f.description=The Device is now more valuable than the organs and combined incomes of everyone in {subject hometown here}.
 interactions.ed136c16.637db57f.text.0=これらはダンジョンで見つけたり、クラフトで作ったりすることができます。
 
 interactions.ed136c16.68d1c701.title=私は飛べると信じている
-interactions.ed136c16.68d1c701.text.0=Mekanismのジェットパックは、クリエイティブスタイルのフライの最も初期の形です。完璧な浮遊状態を実現し、建築、採掘、戦闘などに役立ちます。推力は遅いが、他のモビリティツールと組み合わせることで、かなりの汎用性を発揮します。
+interactions.ed136c16.68d1c701.text.0=Mekanismのジェットパックは、クリエイティブスタイルの飛行の最も初期の形です。完璧な浮遊状態を実現し、建築、採掘、戦闘などに役立ちます。推力は遅いが、他のモビリティツールと組み合わせることで、かなりの汎用性を発揮します。
 
 interactions.ed136c16.6d9670fb.title=空に制限はない！
 interactions.ed136c16.6d9670fb.text.0=レンズと分光レンズを手に入れたあなたは、コンパクトマシーンの上にコレクタークリスタルを置き、星の光を下に導いて、星空を楽しむことができます。
@@ -2198,13 +2198,13 @@ interactions.ed136c16.85365f2e.text.3=Level 15: ヴォーパル
 interactions.ed136c16.85365f2e.text.4=Level 20: クイックドロー、安定した足場
 interactions.ed136c16.85365f2e.text.5=Level 30: 衰弱、ソウルバウンド
 interactions.ed136c16.85365f2e.text.6=Level 40: マルチショット、無限の矢筒
-interactions.ed136c16.85365f2e.text.7=Level 60: マグネティック、ナイトビジョン
+interactions.ed136c16.85365f2e.text.7=Level 60: Magnetic、ナイトビジョン
 interactions.ed136c16.85365f2e.text.8=Level 80: ブロックリーチ
 
 interactions.ed136c16.85a7d1a3.text.0=魔法は持ち主に幸運をもたらすものではないのでしょうか？ 作ってみてください。
 
 interactions.ed136c16.95a0ca99.title=何もしないでいると
-interactions.ed136c16.95a0ca99.description="でも、何も入っていないじゃないか！"。"いいえ、何も入っていません"
+interactions.ed136c16.95a0ca99.description="でも、何も入っていないじゃないか！"。"いいえ、無が入っています"
 interactions.ed136c16.95a0ca99.text.0=ボイドサッチェルは、インベントリに散らばって欲しくないアイテムを自動的にボイドするように設定することができます。
 
 interactions.ed136c16.9aac61b3.text.0=ドラコニックレギンスは、ワイバーンレギンスよりもさらに速く動くことができます。
@@ -2224,7 +2224,7 @@ interactions.ed136c16.9ce126e4.text.4=他にもいくつかあります。
 interactions.ed136c16.9ce126e4.text.5=* 特定のアップグレードでのみ利用可能です。
 
 interactions.ed136c16.a14d80ac.title=誰もそんなことをしている暇はない
-interactions.ed136c16.a14d80ac.text.0=Time in a bottleは、インベントリにボトルがある限り、プレイ中に時間を貯めることができます。貯めた時間をブロックの上で右クリックすると、ブロックの動作が速くなります。
+interactions.ed136c16.a14d80ac.text.0=Time in a bottleは、インベントリにボトルがある限り、プレイ中に時間を貯めることができます。貯めた時間をブロックに右クリックで使用すると、ブロックの動作が速くなります。
 interactions.ed136c16.a14d80ac.text.1=警告：エネルギー供給に使用すると、ケーブルに過電圧がかかり、燃える可能性があります。
 interactions.ed136c16.a14d80ac.text.2=スチームボイラーの生産の加速化は、他の多くのものと同様にうまくいくはずです。
 
@@ -2248,7 +2248,7 @@ interactions.ed136c16.badc108d.title=Crafting Party Equipment
 interactions.ed136c16.badc108d.text.0=ツールステーションと、パターンチェスト、ステンシルメーカー、パーツビルダーなどの基本的なTiCブロックを手に入れるといいでしょう。このクエストではこれらのブロックをすべて作らせるわけではありませんが、ツールステーションは必要です。
 interactions.ed136c16.badc108d.text.2=最初は普通に鉄のパーツを鋳造したり、パーツビルダーで丸石のパーツを作ることができます。より高度な素材は、金属を形成するための機械が必要になります。レッドストーンでスピードアップした初期の段階では、丸石は簡単に修理できる便利な素材となります。
 
-interactions.ed136c16.bcc51b66.description=バニラのエンチャントは、Animusの「分解の儀式」でエンチャントを複製し、Botaniaの「マナエンチャンター」やApotheosisによる「アンビル」と組み合わせることで、全く新しいレベルに到達します。
+interactions.ed136c16.bcc51b66.description=バニラのエンチャントは、Animusの「分解の儀式」でエンチャントを複製し、Botaniaの「マナエンチャンター」やApotheosisによる「金床」と組み合わせることで、全く新しいレベルに到達します。
 interactions.ed136c16.bcc51b66.text.0=この新しい力には、いくつかの新しい制限もあります。ある種のエンチャントは、表示を開始する前に最低レベルを必要とし、レベル30以上を必要とするものは、エンチャンターが地獄を注入した本棚を持つ必要があります。
 interactions.ed136c16.bcc51b66.text.2=ヒント: これはどんなエンチャントされた本でも受け付けます。工作台で本とエメラルドを使ってflim flamのエンチャント本を作ることができます。
 
@@ -2258,15 +2258,15 @@ interactions.ed136c16.be691558.title=Advanced Wireless Power Systems Inc.
 interactions.ed136c16.be691558.text.0=エンダーコイルでは、IV以降の機械を維持するのは難しいかもしれませんが、より高い転送率を目指しましょう
 interactions.ed136c16.be691558.text.1=AWPSIはストレージを行いませんが、あなたは盲目ではありません。GTバッテリーのバッファーを使って、AWPSIに電力を引き込む。
 
-interactions.ed136c16.becdc9a7.description=スペクター・エネルギーー・インジェクターを使えば、RFエネルギーをファントムゾーンに蓄えることができ、後で抽出するのに役立ちます。このエネルギーは、インジェクターを設置したプレイヤーに関連付けられています。
+interactions.ed136c16.becdc9a7.description=スペクターエネルギーインジェクターを使えば、RFエネルギーをファントムゾーンに蓄えることができ、後で抽出するのに役立ちます。このエネルギーは、インジェクターを設置したプレイヤーに関連付けられています。
 
 interactions.ed136c16.c42f5354.description=主要な魔法の材料は、レンチ、ハンマー、ドライバーなどの一般的な工具を非常に強力に変化させます。これらの材料を探すことで、通常の工具の数を大幅に減らすことができますので、ぜひお試しください。
 interactions.ed136c16.c42f5354.tasks.0.title=ツールの優位性
 
 interactions.ed136c16.c4d06ee3.title=Welcome to the Machine
-interactions.ed136c16.c4d06ee3.text.0=このような自動化は、膨大なスペースを必要とし、視覚的にも圧倒されてしまいます。そこで、文字通り、すべてを縮小するのです。コンパクトマシンを使えば、基地に余裕ができます。
-interactions.ed136c16.c4d06ee3.text.1=まず、4つの小型化フィールド・プロジェクターをプラスの形に向かい合って配置します。その後、JEIのレシピに従って内部のマルチブロックを構築し、最後にカタリストを投入します。
-interactions.ed136c16.c4d06ee3.text.2=作成後のコンパクトマシンに入るには、個人用縮小装置が必要です。
+interactions.ed136c16.c4d06ee3.text.0=このような自動化は、膨大なスペースを必要とし、視覚的にも圧倒されてしまいます。そこで、文字通り、すべてを縮小するのです。コンパクトマシンを使えば、拠点に余裕ができます。
+interactions.ed136c16.c4d06ee3.text.1=まず、4つの小型化フィールド・プロジェクターをプラスの形に向かい合って配置します。その後、JEIのレシピに従って内部のマルチブロックを構築し、最後に触媒を投入します。
+interactions.ed136c16.c4d06ee3.text.2=作成後のコンパクトマシンに入るには、Personal Shrinking Deviceが必要です。
 
 interactions.ed136c16.ca115f5d.title=その他のパワーオプション
 interactions.ed136c16.ca115f5d.tasks.0.title=その他のパワーオプション
@@ -2276,7 +2276,7 @@ interactions.ed136c16.ca115f5d.text.2=- ソーラースキン
 interactions.ed136c16.ca115f5d.text.3=- メタボリックジェネレーター
 
 interactions.ed136c16.caf422c5.title=不気味で怖いべたべた
-interactions.ed136c16.caf422c5.description=エクトプラズムは、モブが殺されたときに低確率で生成されるスピリットからドロップする。また、zen summonでも召喚することができます（ただし、voidディメンションでしか召喚できません！）。彼らにダメージを与えるためには、魔法のダメージを使わなければなりません。例えば、負傷のスプラッシュポーションなどです。
+interactions.ed136c16.caf422c5.description=エクトプラズムは、モブが殺されたときに低確率で生成されるスピリットからドロップする。また、zen summonでも召喚することができます（ただし、voidディメンションでしか召喚できません！）。彼らにダメージを与えるためには、魔法ダメージを与えなければなりません。例えば、負傷のスプラッシュポーションなどです。
 
 interactions.ed136c16.cc007cac.tasks.0.title=An Eggscelent Endeavor
 interactions.ed136c16.cc007cac.text.0=ヒッポグリフは、空を飛び回るのに最適な仲間です このオプションクエストでは、好きな色のレアエッグを選び、捕獲して飼いならすまでのプロセスを省略することができます。
@@ -2307,7 +2307,7 @@ interactions.ed136c16.e66e3fa8.title=INTO AWPSI
 interactions.ed136c16.e66e3fa8.text.0=これを発電出力のバッファに使ってください。
 
 interactions.ed136c16.e8981061.title=The mob Randomizer
-interactions.ed136c16.e8981061.text.0=クレイン・スターを作成して、トランスミュテーション・タブレットにチャージすることで、パーソナルEMCを強化することができるようになりました。これを手に入れれば、賢者の石の投擲物を起動することができます（キーバインドを確認）。
+interactions.ed136c16.e8981061.text.0=クラインの星を作成して、トランスミュテーション・タブレットにチャージすることで、パーソナルEMCを強化することができるようになりました。これを手に入れれば、賢者の石の投擲物を起動することができます（キーバインドを確認）。
 interactions.ed136c16.e8981061.text.1=この弾はモブを他のモブに変えてしまう。ブレイズが必要？厄介なクリーパーをそれに変えます。
 interactions.ed136c16.e8981061.text.2=Mutant steve camping your corpse? How now brown cow...
 interactions.ed136c16.e8981061.text.4=クラインの星を変換タブレットのインターフェースの左側に置いてEMCを吸収します。テーブルの右側の中央に置くと、EMCをテーブルに戻すことができます。友人との共有にも最適です。
@@ -2353,8 +2353,8 @@ interactions.fcf42610.430f5fa1.tasks.0.title=より簡単なスチール
 interactions.fcf42610.430f5fa1.text.0=電気炉で錬鉄を作ると、融剤を作らずに鋼鉄を大量に生産することができます。大量の自動化に便利です。
 
 interactions.fcf42610.72dc249f.title=The Arc to Power
-interactions.fcf42610.72dc249f.text.0=錬鉄や焼きなまし銅などの素材は、アーク炉と酸素を利用することで、非常に簡単に自動化でき、素早く生産することができます。多くの用途があり、早期に投資する価値があることがわかるでしょう。
-interactions.fcf42610.72dc249f.text.1=錬鉄を素早く生産できるようになったら、錬鉄を素早く高炉にかけることで、フラックスレス方式の鉄鋼生産をさらに自動化することができます。 
+interactions.fcf42610.72dc249f.text.0=錬鉄や焼きなまし銅などの素材は、アーク炉と酸素を利用することで非常に簡単に自動化でき、素早く生産することができます。多くの用途があり、早期に投資する価値があることがわかるでしょう。
+interactions.fcf42610.72dc249f.text.1=錬鉄を素早く生産できるようになったら、錬鉄を素早く高炉にかけることで、無融剤方式の鉄鋼生産をさらに自動化することができます。 
 
 interactions.fcf42610.a6d5688e.title=Wrought with Iron
 interactions.fcf42610.a6d5688e.text.0=鉄を火の中に放り込んで鍛造する方法もあるが、自動化のためには不便なこともあるので、プラズマアーク炉で錬鉄を早く精錬することもできます。
@@ -2370,7 +2370,7 @@ interactions.fd71bc82.2e5abfbb.tasks.0.title=タングステンダスト
 
 interactions.fd71bc82.6b69f34f.title=エイリアンのタングステン鉱石
 interactions.fd71bc82.6b69f34f.tasks.0.title=タングステン鉱脈
-interactions.fd71bc82.6b69f34f.text.0=エンドストーンを電気分解するかinfernal deconclomeratorに通す（推奨）以外にも、実際にエンドに到達した後は、タングステン鉱石を直接採掘して、EV以降ティアで必要なものを大量に処理することができます。
+interactions.fd71bc82.6b69f34f.text.0=エンドストーンを電気分解するかinfernal deconclomeratorに通す（推奨）以外にも、エンドに到達した後は、タングステン鉱石を直接採掘してEV以降ティアで必要なものを大量に処理することができます。
 
 interactions.crate.title=調子に乗らないこと
 interactions.crate.description=GTクレートは、アイテムを保管するために作成することができ、コンベアやロボットアームを取り付けて、近くのインベトーリから引き出してGTフィルタリングを行うこともできます。これらは、鉱石処理のセットアップに非常に役立ちます。
@@ -2387,9 +2387,9 @@ multiblocktweaker.multiblock.disassembler.description=分解機(Disassembler)は
 recipemap.disassembler.name=Item Disassembly
 
 interactions.partygear.antimatter.title=なんだこれ？反物質だ！
-interactions.partygear.antimatter.description=液体アンチマターはフラックスを生成するために必要な液体であり、ボイドスペースに無限に近いエネルギーを伝達できる強力な素材である。
+interactions.partygear.antimatter.description=液体アンチマターはフラックスを生成するために必要な液体であり、Voidスペースに無限に近いエネルギーを伝達できる強力な素材である。
 interactions.partygear.antimatter.text.0=液体アンチマターは、ライフエッセンスが雷と接触することで生まれます。これは自然に起こることもありますが、非常に稀なことで、代わりに 
-interactions.partygear.antimatter.text.1=この雷を直接発生させる方法として、「Rending Gale」や「Sigil of Storms」などに投資するとよいでしょう。
+interactions.partygear.antimatter.text.1=この雷を直接発生させる方法として、Reliquaryの「Rending Gale」や、Animusの「Sigil of Storms」などに投資するとよいでしょう。
 interactions.partygear.antimatter.text.2=警告：液体アンチマターは非常に大きな破壊力を持っています。触れたものを反物質に変えてしまい、採掘されるとすべての反物質ブロックに破壊の連鎖を引き起こします。
 
 interactiosns.luckystar.dynanism.title=The Dynamic Trio
@@ -2398,8 +2398,8 @@ interactiosns.luckystar.dynanism.text.0=Dyananism Gemsには、Fengarum(白)、O
 interactiosns.luckystar.dynanism.text.1=スターライトと加速を与えることで、これらはより早く成長し、パーティクルを発するようになったら、安全に収穫することができます。しばらく収穫されないでいると、以前の成長段階に戻り、サイクルを続けます。
 
 interactions.metallurgyev.implosioncompressor.title=爆発的な進歩
-interactions.metallurgyev.implosioncompressor.description=材料の中には、標準的なコンプレッサーでは圧縮できないほどの圧力を必要とするものがあります。このような場合には、インプロージョンコンプレッサーが適しています。
-interactions.metallurgyev.implosioncompressor.text.0=インプロージョンコンプレッサーは、消費電力が少なく、短時間でその役割を果たすことができますが、常にTNTの供給源が必要となります。LVを参照してください。
+interactions.metallurgyev.implosioncompressor.description=材料の中には、標準的なコンプレッサーでは圧縮できないほどの圧力を必要とするものがあります。このような場合には、内破爆縮機が適しています。
+interactions.metallurgyev.implosioncompressor.text.0=内破爆縮機は、消費電力が少なく、短時間でその役割を果たすことができますが、常にTNTの供給源が必要となります。LVを参照してください。
 interactions.metallurgyev.implosioncompressor.text.1=トルエンとTNTの自動化への道を示すChemistryタブ（まだやっていない場合）。このプロセスのために蒸留塔を検討することを強くおすすめします。
 interactions.metallurgyev.implosioncompressor.text.2=水蒸気分解や蒸留油の製品は、必要なトルエンやポリスチレン化学品などの有用なアイテムを提供してくれます。
 
@@ -2409,12 +2409,12 @@ interactions.metallurgymaster.vanadium.text.0=バナジウム・ガリウムイ�
 
 interactions.metallurgymaster.ytt.title=Yeet-Rium!
 interactions.metallurgymaster.ytt.description=イットリウムは、バリウムや銅酸化物と合金化することで、超伝導の鍵となる新種の金属を作ることができます。これにより、エネルギー輸送や、そのような材料を必要とする高度な機械に使用される超伝導ワイヤーを作ることができます。
-interactions.metallurgymaster.ytt.text.0=イットリウムは、レアアースを遠心分離したり、アウレリアや軌道採掘機のバイオレット・クリスタルブロックを粉砕して得られる。バリウムは、サータスクォーツを加工して得られるバライトダストの副産物である。
+interactions.metallurgymaster.ytt.text.0=イットリウムは、レアアースを遠心分離したり、アウレリアや軌道採掘機からのバイオレットクリスタルブロックを粉砕して得られる。バリウムは、サータスクォーツを加工して得られるバライトダストの副産物である。
 
 interactions.metallurgymaster.plutonium.title= 私は放射性物質です
 interactions.metallurgymaster.plutonium.description=ウラン238を何度も遠心分離機にかけることで、まずプルトニウム244の小さな粉を手に入れ、その塵を遠心分離機にかけることで241を手に入れることができるのです。
-interactions.metallurgymaster.plutonium.text.0=可能性は低く、時間とエネルギーがかかるので、プルトニウムを手に入れるために多額の処理費用をかけたほうがいいだろう。惑星アウレリアに到着すると、フェリックサンドを遠心分離することで、より直接的にプルトニウムを得ることができる。精製されたプルトニウムは、ナクアダ反応炉とフュージョン反応炉の両方で重要な成分となる。
+interactions.metallurgymaster.plutonium.text.0=可能性は低く、時間とエネルギーがかかるので、プルトニウムを手に入れるために多額の処理費用をかけたほうがいいだろう。惑星アウレリアに到着すると、Oxidized Ferric Sandを遠心分離することで、より直接的にプルトニウムを得ることができる。精製されたプルトニウムは、ナクアダ反応炉とフュージョン反応炉の両方で重要な成分となります。
 
 interactions.ayo.coil.tier0.title=コイルをおろそかにするのはNot 0Kです
 interactions.ayo.coil.tier0.description=高炉の熱量は、コイルの種類によって決まります。
-interactions.ayo.coil.tier0.text.0=コイルの温度が高ければ高いほど、より高度な素材の製錬が可能になりますが、コイルをアップグレードし続けなければ、最終的には進行のボトルネックになってしまいます。本パックではコイルのアップグレード経路が比較的簡素化されており、タングステンスチールに到達すると、エンドゲームの超伝導コイルにジャンプすることができます。このクエストでは、各ティアの最初のEBFに必要なコイルの半分を提供することで、アップグレード費用を支援します。
+interactions.ayo.coil.tier0.text.0=コイルの温度が高ければ高いほど、より高度な素材の製錬が可能になりますが、コイルをアップグレードし続けなければ、最終的には進行のボトルネックになってしまいます。本パックではコイルのアップグレード経路が比較的簡素化されており、タングステンスチールに到達すると、エンドゲームの超伝導コイルにジャンプすることができます。このクエストでは、各ティアの最初のEBFに必要なコイルの半分を提供することで、アップグレードを支援します。
