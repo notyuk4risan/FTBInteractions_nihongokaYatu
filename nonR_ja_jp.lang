@@ -77,25 +77,25 @@ interactions.103abc81.f92a387e.title=地獄へのハイウェイ
 interactions.103abc81.f92a387e.description=ネザーに行くには、この10個のポータルブロックを作る必要があります。ネザーに足を踏み入れると、モブも徐々に手強くなっていきます。なお、作業台のレシピではリキッドデスが必要です。
 
 interactions.154955d3.009703b7.title=ノコギリを見る(I see saw)
-interactions.154955d3.009703b7.description=飢えを防ぐことができるかもしれません。それともやめておきますか。水源をノコギリの真下に置いて、流れに任せましょう。
+interactions.154955d3.009703b7.description=飢えを防ぐことができるかもしれません。それともやめておきますか？水源をノコギリの真下に置いて流れに任せましょう。
 interactions.154955d3.009703b7.text.0=1つの方法でうまくいかない場合は、他の方法を試してみてください。
-interactions.154955d3.009703b7.text.1=USBのように
+interactions.154955d3.009703b7.text.1=USBの上下を確認するように、水流を変えてみてください。
 
 interactions.154955d3.054b6992.title=JEI活用のコツ
-interactions.154955d3.054b6992.text.0=- FTBQにはJEIとの連携機能があり、クエストアイコンや複数のアイテムがある場合は左にあるチェックレシピのキーバインド(デフォルト:R)を使いましょう。
-interactions.154955d3.054b6992.text.1=- もしあなたが戻るボタン付きのマウスを持っているなら、そのキーをバックスペースの代わりにJEIの「前に見たレシピを表示」にバインドすることをお勧めします。その方が生活が楽になります。
+interactions.154955d3.054b6992.text.0=-FTBQにはJEIとの連携機能があり、クエストアイコンや複数のアイテムがある場合は左にあるチェックレシピのキーバインド(デフォルト:R)を使いましょう。
+interactions.154955d3.054b6992.text.1=-もしあなたが戻るボタン付きのマウスを持っているなら、そのキーをバックスペースの代わりにJEIの「前に見たレシピを表示」にバインドすることをお勧めします。その方が生活が楽になります。
 
-interactions.154955d3.054b6992.text.2=- Shiftキーを押しながらアイテムをマウスオーバーすると、そのアイテムの鉱石辞書タグが表示されます。(Gregアイテムでこれをするとゲームが一瞬フリーズします)
-interactions.154955d3.054b6992.text.3=- 何度も調べるのが面倒な場合は、JEIにブックマークしておきましょう。回路やロボットアーム、モーターなどで使うことが多いと思います。
+interactions.154955d3.054b6992.text.2=-Shiftキーを押しながらアイテムをマウスオーバーすると、そのアイテムの鉱石辞書タグが表示されます。(Gregアイテムでこれをするとゲームが一瞬フリーズします)
+interactions.154955d3.054b6992.text.3=-何度も調べるのが面倒な場合は、JEIにブックマークしておきましょう。回路やロボットアーム、モーターなどで使うことが多いと思います。
 
 interactions.154955d3.07930191.title=クエストチェーンのはじまり
 interactions.154955d3.07930191.text.0=四角いアイコンがついているクエストは、クエストラインの開始を意味します。
 
-interactions.154955d3.095258c2.title=あなたが重要です
-interactions.154955d3.095258c2.description=void worldでは、モブが自然にスポーンしないため、「zen summon」でゾンビ村人を召喚し、村人に変換しないと進めません。しかし、賢者の石を作るには、ハートかエメラルドが必要です。
-interactions.154955d3.095258c2.text.0=村人の取引は無効です。このため、彼らは過剰な量のエメラルドを持っており、時折それを落とすことがあります。
+interactions.154955d3.095258c2.title=あなたが重要です(I Heart you)
+interactions.154955d3.095258c2.description=VoidWorldではモブが自然スポーンしないため「zen summon」でゾンビ村人を召喚し、村人に変換しないと進めません。しかし、賢者の石を作るには、Heartかエメラルドが必要です。
+interactions.154955d3.095258c2.text.0=村人の取引は無効です。そのため彼らは過剰な量のエメラルドを持っており、時折それを落とすことがあります。
 
-interactions.154955d3.0ce8b042.text.0=ロウソクは松明よりも簡単に作ることができ、機能も同じです。暗闇に飛び込む際には、必ずたくさん用意しておきましょう。
+interactions.154955d3.0ce8b042.text.0=Candleは松明よりも簡単に作ることができ、機能も同じです。 暗闇に飛び込む際には必ずたくさん用意しておきましょう。
 
 interactions.154955d3.0d64bc8a.title=情報掲示板
 interactions.154955d3.0d64bc8a.tasks.0.title=指令クエスト
@@ -115,7 +115,7 @@ interactions.154955d3.1d3da519.title=fomdog melter
 interactions.154955d3.1d3da519.text.0=これはオーバーワールドに行くのに厳密には必要ではありませんが、焼成石の作成を簡単にするもので、後に必要になります。
 
 interactions.154955d3.1d6fe213.title=飢えた職人
-interactions.154955d3.1d6fe213.description=このパックでは、インワールドでのクラフトを卒業し、ワークテーブルでスタックを一度にクラフトすることができます。しかし、これには材料費がかかり、自動化もできません。そのためには機械が必要になります。また、液体を扱います。
+interactions.154955d3.1d6fe213.description=このパックではインワールドでのクラフトを卒業し、BasicWorktableでスタックを一度にクラフトすることができます。しかしこれには材料費がかかり、自動化もできません。そのためには機械が必要になります。また、液体も扱います。
 
 interactions.154955d3.2142a3b2.title=自然スポーンは禁止されてます
 interactions.154955d3.2142a3b2.description=暗い部屋での敵対Mobや草むらでの平和Mobも含めて、voidでの自然スポーンは禁止されています。しかし、技術があれば強制的にスポーンさせることができます。(zen summonでの召喚)
@@ -131,8 +131,8 @@ interactions.154955d3.301f1896.title=クエストチェーンの完了
 interactions.154955d3.301f1896.text.0=大きなひし形のクエストインジケータは、クエストチェーンの終わりを表しています。また、次にどのクエストに挑戦すべきかの説明もあります。
 
 interactions.154955d3.36cbc6c2.title=話題になっているのは？
-interactions.154955d3.36cbc6c2.text.0=作物の成長が遅すぎる？死に瀕するのはうんざりしている？心配することはありません、Bee happy、あなたの両方の問題を解決することができます。素朴な養蜂場は、ミツバチが働くと近くの作物を加速させます。この効果は積み重ねることができます。
-interactions.154955d3.36cbc6c2.text.2=また、コホシュと組み合わせて再生の薬を作ることができる蜂蜜を生産してくれます。
+interactions.154955d3.36cbc6c2.text.0=作物の成長が遅すぎる？死に瀕するのはうんざりしている？心配することはありません Bee happy、両方の問題を解決することができます。Rusticの養蜂場は、Beeが働くと近くの作物を加速させます。この効果は積み重ねることができます。
+interactions.154955d3.36cbc6c2.text.2=また、Cohoshと組み合わせてElixirofRegenerationを作ることができるHoneycombを生産してくれます。
 
 interactions.154955d3.3a0ee9b1.text.0=この杖は、見ている点を起点にブロックを形成します。離れた場所に大きなプラットフォームを素早く構築したり、標準的な建築用杖ではできない方向に建築するのに非常に適しています。
 
@@ -140,15 +140,15 @@ interactions.154955d3.3b4bd52b.tasks.0.title=標準的な相互接続のクエ�
 interactions.154955d3.3b4bd52b.text.0=標準の円は、クエストがチェーンの一部であることを示します。
 
 interactions.154955d3.4c1c86a9.title=ゲーム序盤の建築支援
-interactions.154955d3.4c1c86a9.description=Animus(BMのアドオン)の液体の土は、注ぐと水のように流れていきます。流れなくなると、固まってたくさんの土になります。
-interactions.154955d3.4c1c86a9.text.0=素早く回収すれば、固まる前の液体源を拾うことができ、1つのバケツから何度も使用することができます。
+interactions.154955d3.4c1c86a9.description=AnimusのLiquidDirtは注ぐと水のように流れていきます。流れなくなると、固まってたくさんの土になります。
+interactions.154955d3.4c1c86a9.text.0=素早く回収すれば固まる前の液体を拾うことができ、1つのバケツで何度も使用することができます。
 
 interactions.154955d3.54f0c63a.title=こうやって思い出させてくれるんですね
-interactions.154955d3.54f0c63a.description=私たちは完全な透明性を追求しています。テスターがオーバーワールドで死に続けていたため、最初はvoid worldからスタートします。時間をかけて、JEIとクエストブックを知り、自己責任でパックの進行を急ぎましょう。
+interactions.154955d3.54f0c63a.description=私たちは完全な透明性を追求しています。テスターがオーバーワールドで死に続けていたため、最初はVoidWorldからスタートします。時間をかけて、JEIとクエストブックを知り、自己責任でパックの進行を急ぎましょう。
 interactions.154955d3.54f0c63a.tasks.0.title=了解
 
 interactions.154955d3.555a1a94.title=Fomdog bone
-interactions.154955d3.555a1a94.text.0=メルター用の陶器を作るには、骨粉が必要です。これは、ストレーナーの中にある骨から得ることができます。
+interactions.154955d3.555a1a94.text.0=Melter用のPorcelainを作るには、BoneMealが必要です。これは、Strainerの中にあるBoneから得ることができます。
 
 interactions.154955d3.5a0e0129.title=Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen!
 interactions.154955d3.5a0e0129.description=これらのクエストアイコンのいずれかが表示された場合、このセクションにはJEIでは見つけられない情報や、パックを乗り越えるための有用なヒントが含まれていることを意味します。
@@ -157,8 +157,8 @@ interactions.154955d3.5a0e0129.tasks.0.title=了解
 interactions.154955d3.5c197ff1.title=本来ならば必要のないことなんですが...。
 interactions.154955d3.5c197ff1.description=しかし、もしあなたが錬金大全をテーブルに置かずに失くしてしまったという悲劇的なクラブに参加しているなら、ここにバックアップがあります。それ以上のことはできません。
 
-interactions.154955d3.65c2b61d.description=蓮の種は、使用するとプレイヤーに経験値を与える花を咲かせることができます。まずはサバイバルストレーナーを使ってみてください。後に遠心分離機で自動処理することができます。
-interactions.154955d3.65c2b61d.text.0=ヒント：修繕がついているアイテムは、オフハンドで持ったり、身につけたりしてから蓮の花を食べると修復されます。
+interactions.154955d3.65c2b61d.description=LotusSeedsは、使用するとプレイヤーに経験値を与える花を咲かせることができます。まずはSurvivalStrainerを使ってみてください。後に遠心分離機で自動処理することができます。
+interactions.154955d3.65c2b61d.text.0=ヒント：修繕がついているアイテムはオフハンドで持ったり、身につけたりしてからLotusBlossomを食べると修復されます。
 
 interactions.154955d3.6819f008.title=木を持っていてもいい
 interactions.154955d3.6819f008.description=それと私の斧! GTアックスには木こり機能が内蔵されていて、序盤での丸太の切り倒しが楽になります。
@@ -173,7 +173,7 @@ interactions.154955d3.7295ef69.description=みんなで手をたたこう。
 interactions.154955d3.7295ef69.text.0=木の周りでトゥワークしたり、スプリントしたりして、木を早く成長させる。ドルイドになりきって、耳元で甘い言葉を囁く。
 
 interactions.154955d3.74aca1b0.title=常にダブルタップ
-interactions.154955d3.74aca1b0.description=クエストGUIの状態でshiftを2回押すと、検索可能なクエストリストを開くことができます。クエストの依存関係を別のタブで把握しやすくなります。
+interactions.154955d3.74aca1b0.description=クエストGUIの状態でShiftを2回押すと、検索可能なクエストリストを開くことができます。クエストの依存関係を別のタブで把握しやすくなります。
 
 interactions.154955d3.792f5e20.title=より良い建築ツール
 interactions.154955d3.792f5e20.description=ある程度は。
@@ -193,13 +193,13 @@ interactions.154955d3.7979431a.text.2=アニメーションポータルブロッ
 
 interactions.154955d3.7a3fc83a.title=斧で殴る
 interactions.154955d3.7a3fc83a.description=序盤は、ほとんどのやり取りがインワールドで行われます。斧を持って丸太に右クリックを2回すると木材が出てきます。良い方法が見つかるまでは、ハングリー精神が必要です。
-interactions.154955d3.7a3fc83a.text.0=ノコギリ、自動ノコギリの使用するのが早いです。空腹度を使って手で何枚もの板を作る必要はありません。
+interactions.154955d3.7a3fc83a.text.0=ノコギリ、自動ノコギリを使用するのが早いです。空腹度を使って手で何枚もの板を作る必要はありません。
 interactions.154955d3.7a3fc83a.text.1=この方法で作る木材は8個もあれば足りるでしょう。
 
 interactions.154955d3.7d56d52e.title=Crash Course
 interactions.154955d3.7d56d52e.description=黒曜石を溶岩に変化させるアイテムがあれば。IF ONLY... (ヒント：賢者の石の英名と韻を踏んでいます)
 
-interactions.154955d3.7e2eeed5.description=低共有結合粉と粘着性のある樹脂を錬金術のように配列して、Rusticの獣脂を作りましょう。
+interactions.154955d3.7e2eeed5.description=LowCovalenceDustとStickyResinを錬金術のように配置して、RusticのTallowを作りましょう。
 interactions.154955d3.7ec1b2f7.title=FTB公式ディスコード招待
 
 interactions.154955d3.85434674.title=Yeet that Wheat
@@ -217,23 +217,23 @@ interactions.154955d3.87b0ee79.text.0=私たちはこのパックの維持、修
 interactions.154955d3.87b0ee79.text.2=バグレポートやパックの改善のためのアイデアは、必ず私たちのトラッカーに提出してください。また、公式のFTB discord #ftb-interactionsチャンネルでは、非常に活発なdiscordコミュニティを展開しています。
 interactions.154955d3.87b0ee79.text.4=上にはTrackerへのリンク、右にはDiscordへのIniviteリンクがありますので、ぜひお立ち寄りください。
 interactions.154955d3.8b136f2b.title=あらゆることを自動化しよう!
-interactions.154955d3.8b136f2b.description=最も早い自動化の方法の一つは、コンベヤーを使ったものです。
+interactions.154955d3.8b136f2b.description=最も早い自動化の方法の一つは、Conveyorを使ったものです。
 
 interactions.154955d3.8ffc4093.title=Water you doing?
 interactions.154955d3.8ffc4093.description=物理学の仕組みさえ知っていれば、氷を溶かして水にすることができる。そして、氷を提供してくれる魔法のブロックがあれば。
 
 interactions.154955d3.98f4c3c6.title=The World is Your Table
 interactions.154955d3.98f4c3c6.description=EMCテーブルから砂利を取り出し、Tinkersのフリントアックスヘッド用のフリントを作り、2x2のクラフトグリッドでストーンスティックと組み合わせます。
-interactions.154955d3.98f4c3c6.text.0=注：これらの道具はまだ修理できませんが、ボイドは喜んでそれを生け贄として受け取ります。
+interactions.154955d3.98f4c3c6.text.0=注：これらの道具はまだ修理できませんが、Voidは喜んでそれを生け贄として受け取ります。
 
 interactions.154955d3.9c5fed89.title=木の散髪師
 interactions.154955d3.9c5fed89.description=真のエキスパートは、すべての段階でEMCの生産を最小化します。
 
-interactions.154955d3.9df1d5ee.description=錬金術の配列を使って、オークの苗木とスライムボールをゴムの苗木に変換することができます。これにより、粘着性のある樹脂を落とすゴムの木を育てることができます。
+interactions.154955d3.9df1d5ee.description=錬金術魔法陣を使って、オークの苗木とスライムボールをRubberTreeSaplingに変換することができます。これにより、StickyResinを落とすRubberTreeを育てることができます。
 
-interactions.154955d3.a0918964.description=Rusticの錬金は、最も初期のHP再生の方法の一つを提供します。頑張ってください、あなたにはそれが必要です。
+interactions.154955d3.a0918964.description=Rusticの錬金は、最も初期のHP再生の方法の一つを提供します。 頑張ってください、あなたにはそれが必要です。
 
-interactions.154955d3.a1e8425a.description=パックでは空腹による自然なHP回復が無効になっています。様々なMODを使ってハートの総量を増やすか、最終的には自動で回復する方法を見つけなければなりません。しかし、今のところ、あなたには癒しの軟膏と絆創膏があります。
+interactions.154955d3.a1e8425a.description=パックでは空腹度による自然回復が無効になっています。様々なModを使って体力の総量を増やすか、最終的には自動で回復する方法を見つけなければなりません。しかし、今のところあなたにはHealingSalveとPlasterがあります。
 interactions.154955d3.a1e8425a.text.0=絆創膏をプラスターと呼ぶ国があるのをご存知ですか？
 interactions.154955d3.a1e8425a.text.1=ヒント：通常の草ブロックに骨粉を使うことで、バニラの花を手に入れることができます。
 
@@ -241,11 +241,11 @@ interactions.154955d3.a7bfabb6.title=FTB Interactions 問題追跡
 
 interactions.154955d3.a84dcdad.description=頑張ってください。私はあなたが見つけられないような場所に置いてあります。
 
-interactions.154955d3.a9d0a2ad.description=さらに獣脂をキャンドルベリーの種に変換し、最後にキャンドルベリーの実を搾ってワックスにして革を固めたり、キャンドルにして明かりを灯すことができます。
+interactions.154955d3.a9d0a2ad.description=さらにTallowをCandleberrySeedに変換し、最後にCandleberryを搾ってWaxにして革を固めたり、Candleにして明かりを灯すことができます。
 
 interactions.154955d3.b0039b2c.description=まだ手動ですが、原木から木材を作るための最大限にてっとり早い方法です。
 
-interactions.154955d3.b030b92e.description=これは基本的なレベルの魔法のクラフトです。自動化は不可能で、報酬も低いですが、これが最初のステップです。
+interactions.154955d3.b030b92e.description=これは基本レベルの魔法的なクラフトです。自動化は不可能で、報酬も安いですが、これが最初のステップです。
 interactions.154955d3.b030b92e.text.0=ヒント：牛肉が食べたいときは、鶏肉から変換してみてください。
 
 interactions.154955d3.b7027e49.title=Hot or Not?
@@ -255,29 +255,29 @@ interactions.154955d3.bc16b2a8.title=Filo Stone
 interactions.154955d3.bc16b2a8.description=注意！食べられないし、美味しくもない。
 
 interactions.154955d3.c9a2a293.tasks.0.title=重要なお知らせ
-interactions.154955d3.c9a2a293.text.0=エクスクラメーションマークのついた丸いクエストには、各セクションに関連するパックの重要な情報が含まれています。これらの情報は、入手したらすぐに確認してください。
+interactions.154955d3.c9a2a293.text.0=エクスクラメーションマークのついた丸いクエストには、各セクションに関連するパックの重要な情報が含まれています。 これらの情報は、入手したらすぐに確認してください。
 
 interactions.154955d3.ca362eca.title=罠だ！
 interactions.154955d3.ca362eca.description=草ブロックと同じYレベルに配置され、少なくとも5つの草ブロックまたは土ブロックにアクセスできる必要があります。2ブロック先までの方位のブロックのみカウントされます。
-interactions.154955d3.ca362eca.text.0=最初はこのトラップを4～5個設置できるように、プラットフォームを拡張することをお勧めします。
-interactions.154955d3.ca362eca.text.1=Warning: 最初のエサは単にトラップを作動させるだけで、副産物なしに必ず失われるので、各トラップに1個以上のエサを入れるようにしてください。
+interactions.154955d3.ca362eca.text.0=最初はこのトラップを4～5個設置できるように、拠点を拡張することをお勧めします。
+interactions.154955d3.ca362eca.text.1=Warning:最初のエサは単にトラップを作動させるだけで、副産物なしに必ず失われるので、各トラップに1個以上のエサを入れるようにしてください。
 
 interactions.154955d3.chapter.title=安全な場所
 interactions.154955d3.chapter.description.0=Intetactionsへようこそ このクエストラインから始めましょう。 
 interactions.154955d3.chapter.description.2=void worldを出た後は、タブの中で複数の分岐に分かれて進行することになります。頑張ってくださいね。
 
 interactions.154955d3.d18be8cc.tasks.0.title=糸を必要としている人
-interactions.154955d3.d18be8cc.text.0=糸の入手方法はいくつかあります。多くのレシピでは、植物の繊維で作られた糸を使うことができます。実際に糸が必要な場合は、ストレーナーに入っている綿の種から作ることができます。植物の種を使うと、もっと増えますよ！
+interactions.154955d3.d18be8cc.text.0=糸の入手方法はいくつかあります。多くのレシピでは、PlantFibresで作られた糸を使うことができます。実際に糸が必要な場合は、Strainerに入っているCottonSeedから作ることができます。植物の種を使うと、もっと増えますよ！
 
-interactions.154955d3.d18be8cc.text.2=綿の糸がうまくいかない場合は、クモの木の苗木を作って、時間が経つと糸が伸びるようにすることもできます......最速の方法ではありませんが、うまくいきますよ
+interactions.154955d3.d18be8cc.text.2=Cottonの糸がうまくいかない場合はクモの木の苗木を作って、時間が経つと糸が伸びるようにすることもできます…… 最速の方法ではありませんが、うまくいきますよ
 
 interactions.154955d3.d6382de0.title=I am overused-pun-Grout
 
-interactions.154955d3.d7b06269.description=ゾンビになった村人を復元します。ゾンビになってしまった村人たち。
+interactions.154955d3.d7b06269.description=ゾンビになった村人を回復します。ゾンビになってしまった村人たちを。
 
 interactions.154955d3.dad0ccef.title=Fomdog Chicken
-interactions.154955d3.dad0ccef.description=詳しくは、チキンのクエストラインをご覧ください。
-interactions.154955d3.dad0ccef.text.0=苦労して骨を探すのは大変なので、早めに鶏の力を借りてみてはいかがでしょうか。ポーセレン・チキンは直接陶器を作ることができます。
+interactions.154955d3.dad0ccef.description=詳しくは、Chickenのクエストラインをご覧ください。
+interactions.154955d3.dad0ccef.text.0=苦労して骨を探すのは大変なので、早めにChickensの力を借りてみてはいかがでしょうか。PorcelainChickenは直接Porcelainを作ることができます。
 
 interactions.154955d3.dcc3168e.title=Cycling through Building Tools
 interactions.154955d3.dcc3168e.description=歩くことなく、自分の基地を作ることができます。
@@ -288,17 +288,17 @@ interactions.154955d3.e7d70489.description=錬金テーブルに本を入れて�
 interactions.154955d3.eb791b4a.description=拠点を美しくするために
 
 interactions.154955d3.ed1c9869.title=FTBUltimine!
-interactions.154955d3.ed1c9869.description=FTBUltimineは、非資源収集の利便性を目的としています。木の葉を刈ったり、アストラル寺院を集めたり、芝生を刈ったりすることができます。FTBUltimineは鉱脈や丸太をブラックリストに載せていますが、これはHammers/Drills/Lumber Axesが役に立たなくなるからです。デフォルトのキーはGRAVEです。
+interactions.154955d3.ed1c9869.description=FTBUltimineは、非資源収集の利便性を目的としています。木の葉を刈ったり、アストラル寺院を集めたり、芝生を刈ったりすることができます。FTBUltimineは鉱脈や丸太をブラックリストに載せていますが、これはHammers/Drills/LumberAxesが役に立たなくなるからです。デフォルトのキーはGRAVEです。
 interactions.154955d3.ed1c9869.tasks.0.title=了解
 
-interactions.154955d3.ee31eaaf.title=インフィニティダスト
-interactions.154955d3.ee31eaaf.description=火打ち石をもって岩盤を左クリックすると入手できます。これは4レベル以上のExpを消費し、ほとんどの場合、火打ち石を破壊します。暗い部屋の床に置いておくと、ダストがvoidから敵を召喚する確率が高くなります。
-interactions.154955d3.ee31eaaf.text.0=インフィニティ・ダストによって召喚されたクリーチャーは、高確率でインフィニティの粒をドロップし、これを利用して粒とダストの持続的なサイクルを作ることができます。
-interactions.154955d3.ee31eaaf.text.1=警告: 丸石を遠ざけてください。丸石はエンダーマイトを怒らせ、殺すのがほぼ不可能になります。
-interactions.154955d3.ee31eaaf.text.2=最後の注意: このパックでは、通常のように岩盤を燃やして作成することはできません。
+interactions.154955d3.ee31eaaf.title=InfinityDust
+interactions.154955d3.ee31eaaf.description=火打ち石をもって岩盤を左クリックすると入手できます。これは4レベル以上のExpを消費し、ほとんどの場合は火打ち石を破壊します。暗い部屋の床に置いておくと、ダストがVoidから敵を召喚する確率が高くなります。
+interactions.154955d3.ee31eaaf.text.0=InfinityDustによって召喚されたクリーチャーは、高確率でGrainsofInfinityを落とし、これを利用して粒とダストの持続的なサイクルを作ることができます。
+interactions.154955d3.ee31eaaf.text.1=警告:丸石を遠ざけてください。丸石はエンダーマイトを怒らせ、殺すのがほぼ不可能になります。
+interactions.154955d3.ee31eaaf.text.2=最後の注意:このパックでは、通常のように岩盤を燃やして作成することはできません。
 
 interactions.154955d3.efcd9489.title=あーした てんきに なーあれ！
-interactions.154955d3.efcd9489.text.0=雨の日は憂鬱ですか？大きなシールドで大雨から身を守りましょう。random things rain shieldは、5チャンクのエリアの雨を永遠に防ぎます。あなたの前には晴れた空が広がっていますよ。
+interactions.154955d3.efcd9489.text.0=雨の日は憂鬱ですか？大きなシールドで大雨から身を守りましょう。RandomThingsのRainShieldは、5チャンクのエリアの雨を永遠に防ぎます。 あなたの前には晴れた空が広がっていますよ。
 
 interactions.154955d3.f1fb89b5.tasks.0.title=オプションクエスト
 interactions.154955d3.f1fb89b5.text.0=丸い四角のクエストは任意のクエストですが、推奨されるクエストです。
@@ -407,7 +407,7 @@ interactions.20bf08de.bcf33fda.text.0=木のテーブルにスクライビング
 interactions.20bf08de.chapter.title=なんだこの魔術は
 interactions.20bf08de.chapter.description.0=魔術についてあまり詳しくないガイド
 
-interactions.20bf08de.da041c64.text.0=グローストーンを手に入れるには、レッドストーンを遠心分離機にかけるか、ネザーから採掘するか、錬金術の配列を使ってグローストーンの小さな山を作り、それを組み合わせて完全なダストにする必要があります。
+interactions.20bf08de.da041c64.text.0=グローストーンを手に入れるには、レッドストーンを遠心分離機にかけるか、ネザーから採掘するか、錬金術の魔法陣を使ってTinyPileofGlowstoneDustを作り、それを組み合わせて完全なダストにする必要があります。
 interactions.20bf08de.da041c64.text.2=一度手に入れたものは、ソームクラフトで無限に複製することができます。
 interactions.20bf08de.da041c64.text.4=注：Nitorは単一の形状のクラフトレシピで再着色することができます...
 
