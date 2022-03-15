@@ -16,27 +16,27 @@ advancements.space.root.description=好奇心とはよく言ったもので...�
 
 
 interactions.103abc81.0dcfd09c.title=LVを超えるためのより強力な精錬
-interactions.103abc81.0dcfd09c.text.0=MVティアに完全に入るための最大のハードルは、高炉で作らなければならないアルミニウムです。この段階では、EBFが主な目標となります。詳細については、Ayo technology と metallurgy LVタブを確認してください。
+interactions.103abc81.0dcfd09c.text.0=MVティアに完全に入るための最大のハードルは、高炉で作らなければならないAluminiumです。この段階では、EBFが主な目標となります。詳細については、Ayo technology と metallurgy LVタブを確認してください。
 
 interactions.103abc81.3308d327.description=ついに本格的な鉱石処理
 interactions.103abc81.3308d327.text.0=HVでは、すべての金属の80%%を精錬できるようになり、さまざまな魔法や技術の素材を利用できるようになりました。遊び方の選択肢が大きく広がります。自動化に力を入れてください。ステンレススチール、PTFEの製造、そして宇宙への進出が次の目標です。
 
 interactions.103abc81.5b1c2607.description=耳を澄ませば爆弾が爆ぜる音が聞こえてくる
-interactions.103abc81.5b1c2607.text.0=エンダードラゴンが支配する虚無と闇の異界。オスミウム、イリジウム、プラチナなどの素材を入手するにはここの開拓が必須です。直接カオスガーディアンに挑むも良し、闇の星アウレリアに行って最終段階の技術と魔法をアンロックして自分を強化するのもいいでしょう。
-interactions.103abc81.5b1c2607.text.1=闇の星アウレリアを訪れ、テクノロジーと魔法の最終段階のアンロックを行う。
+interactions.103abc81.5b1c2607.text.0=エンダードラゴンが支配する虚無と闇の異界。Osmium、Iridium、Platinumなどの素材を入手するにはここの開拓が必須です。直接カオスガーディアンに挑むも良し、闇の星Aurelliaに行って最終段階の技術と魔法をアンロックして自分を強化するのもいいでしょう。
+interactions.103abc81.5b1c2607.text.1=闇の星Aurelliaを訪れ、テクノロジーと魔法の最終段階のアンロックを行いましょう。
 
 interactions.103abc81.60e81255.description=ヘンリー・フォードはあなたを誇りに思うでしょう
 interactions.103abc81.60e81255.text.0=GregTechの先進技術のほとんどは生産に大規模なマルチブロックアセンブリーが必要です。
 
 interactions.103abc81.6672ed55.description=もう石炭を燃やすのはやめてくれませんか？
-interactions.103abc81.6672ed55.text.0=基本的な鋼鉄を作るには、地獄のかまどと粗鋼インゴットを作るためのスチーム合金製錬機が必要です。鋼鉄はLVでの主要な素材となります。
+interactions.103abc81.6672ed55.text.0=基本的なSteelを作るには、InfernalFurnaceとCrudeSteelIngotを作るためのSteamAlloySmelterが必要です。SteelはLVでの主要な素材となります。
 
 interactions.103abc81.78546de8.tasks.0.title=無限への進行
-interactions.103abc81.78546de8.text.0=void world (<-ここ重要)からロケットを打ち上げて宇宙へ。ここでは、宇宙ステーションを建設したり、軌道採掘機を設置してスカイストーンを集め、本格的にAE2を取り組むことができます。ここでは(Astral Sorceryの)星界の門がおすすめです。
+interactions.103abc81.78546de8.text.0=VoidWorld(<-ここ重要)からロケットを打ち上げて宇宙へ。ここでは、宇宙ステーションを建設したり、軌道採掘機を設置してSkyStoneを集め、本格的にAE2を取り組むことができます。ここではAstral SorceryのCelestialGatewayがおすすめです。
 
 interactions.103abc81.7ddda4a3.title=これは避けられない(una void able)
 interactions.103abc81.7ddda4a3.description=夜明けはまだですか？
-interactions.103abc81.7ddda4a3.text.0=オーバーワールドへのポータルを作成すると新しく開拓する大地、鉱石、希少素材、魔法、そしてもちろん...新しい敵が解放されます。
+interactions.103abc81.7ddda4a3.text.0=OverWorldへのポータルを作成すると新しく開拓する大地、鉱石、希少素材、魔法、そしてもちろん……新しい敵が解放されます。
 
 interactions.103abc81.89acf0d3.description=瓶の中の太陽ではダメで、材料も自分で作らないといけないんですか？
 
@@ -44,15 +44,15 @@ interactions.103abc81.9be3aa5b.description=1セントを投げ入れると、底
 interactions.103abc81.9be3aa5b.text.0=この惑星は、呼吸可能な大気を持っています。 ワープコントローラーとアーティファクトがあれば、あなたの宇宙ステーションでこの世界に飛ぶことができます。ここではいろいろなものが見つかります。vinteum鉱石、ダンジョン、強力なエイリアンの技術、さらには神話生物のうわさまで...。
 
 interactions.103abc81.a7a83e28.description=この惑星にいると太って見える？
-interactions.103abc81.a7a83e28.text.0=ナクアダなどの高級素材や豊富なプラチナが手に入ります。また、この世界には伝説のエンダー・チキンを召喚できる条件が揃っており、役に立つかもしれません...。
+interactions.103abc81.a7a83e28.text.0=Naquadahなどの高級素材や豊富なPlatinumが手に入ります。また、この世界には伝説のEnderChickenを召喚できる条件が揃っており、役に立つかもしれません……。
 
-interactions.103abc81.aaf439c8.text.0=これであなたは成し遂げました。、あなたはmodpackを打ち負かしました。解放され、自由気ままに生きる勇敢な魂です... 少なくともInteractons Expert mode...Kappaが出るまでは。 
+interactions.103abc81.aaf439c8.text.0=これであなたは成し遂げました。あなたはmodpackを打ち負かしました。解放され、自由気ままに生きる勇敢な魂です… 少なくともInteractons Expert mode…Kappaが出るまでは。 
 
 interactions.103abc81.cfcc58ad.title=蒸気がプシューってなってガー
 interactions.103abc81.cfcc58ad.description=これで少なくともプレートを打ち付ける必要がなくなりました。
 interactions.103abc81.cfcc58ad.text.0=すべてを手作業で行っていた時代から、輝かしい蒸気革命へと移行するには原始的な機械が必要になります。素晴らしいものではありませんが、これがスタートです。
 
-interactions.103abc81.cfcc58ad.text.1=真鍮を入手するためにこの世界の金属を亜鉛で安定させる必要がありますが、亜鉛は非常にレアです。錬金真鍮を作成するのが最善の策なので、Thaumcraftを始めましょう。
+interactions.103abc81.cfcc58ad.text.1=Brassを入手するためにこの世界の金属をZincで安定させる必要がありますが、Zincは非常にレアです。AlchemicalBrassIngotを作成するのが最善の策なので、Thaumcraftを始めましょう。
 
 interactions.103abc81.chapter.title=進行
 interactions.103abc81.chapter.description.0=主要な進行目標の非常に広範囲な概要
@@ -60,21 +60,21 @@ interactions.103abc81.chapter.description.2=どのクエストに注目すれば
 interactions.103abc81.chapter.description.3=迷ったときにはこのクエストチェーンを参考にして、次にどのクエストラインに取り組むべきかを考えることができます。
 
 interactions.103abc81.dcd19e05.description=ディーゼルはなかなかいい感じですね
-interactions.103abc81.dcd19e05.text.0=MVに突入したら、次の素材の目標はHVパワーでステンレスを生産することです。関連するティア情報については、MetallurgyとAYO Technologyのタブを参照してください。
+interactions.103abc81.dcd19e05.text.0=MVに突入したら、次の素材の目標はHVパワーでStainlessSteelを生産することです。関連するティア情報については、MetallurgyとAYO Technologyのタブを参照してください。
 
-interactions.103abc81.dcd19e05.text.1=より大きなパワーも必要になります。良い選択肢はディーゼルで、キャノーラで濃縮してオイル投入量を2倍以上にしたり、HVでさらに濃縮してセタン価を上げたり、最終的にはスターライトを注入したりすることができます。
+interactions.103abc81.dcd19e05.text.1=より大きなパワーも必要になります。良い選択肢はDieselで、Canolaで濃縮してOil投入量を2倍以上にしたり、HVでさらに濃縮してセタン価を上げたり、最終的にはスターライトを注入したりすることができます。
 
-interactions.103abc81.dcd19e05.text.2=再生不可能な資源というと抵抗があるかもしれませんが、このパックにはその資源を最大限に活用するためのツールが用意されています。油田1つで、ポンプを動かす必要があるまで何日も持ちこたえることができ、最終的にはネロマティック・プライムを起動させます。
+interactions.103abc81.dcd19e05.text.2=再生不可能な資源というと抵抗があるかもしれませんが、このパックにはその資源を最大限に活用するためのツールが用意されています。油田1つで、ポンプを動かす必要があるまで何日も持ちこたえることができ、最終的にはNeromanticPrimeを起動させます。
 
-interactions.103abc81.dcd19e05.text.3=一週間以上の耐久性があり、ひとかたまりを移動させるだけでOK。この燃料は、ゲーム内で最も強力な燃料であるnaquadriatic燃料は終盤になっても活用できます。
+interactions.103abc81.dcd19e05.text.3=一週間以上の耐久性があり、ひとかたまりを移動させるだけでOK。この燃料は、ゲーム内で最も強力な燃料であるNaquadriaticFuelは終盤になっても活用できます。
 
 interactions.103abc81.dd0f8ba4.title=ロケットマン
 interactions.103abc81.dd0f8ba4.description=そして、着地して私が再び戻ってくるまでには、長い長い時間がかかると思います。
 interactions.103abc81.dd0f8ba4.tasks.0.title=月ディメンションを訪れる
-interactions.103abc81.dd0f8ba4.text.0=月を訪れると、純アルミニウム、ブラッククォーツ、スターメタルのほか、月面ダンジョンからの強力な戦利品を入手することができます。
+interactions.103abc81.dd0f8ba4.text.0=月を訪れると、純Aluminium、BlackQuartz、Starmetalのほか、月面ダンジョンからの強力な戦利品を入手することができます。
 
 interactions.103abc81.f92a387e.title=地獄へのハイウェイ
-interactions.103abc81.f92a387e.description=ネザーに行くには、この10個のポータルブロックを作る必要があります。ネザーに足を踏み入れると、モブも徐々に手強くなっていきます。なお、作業台のレシピではリキッドデスが必要です。
+interactions.103abc81.f92a387e.description=ネザーに行くには、この10個のポータルブロックを作る必要があります。ネザーに足を踏み入れると、モブも徐々に手強くなっていきます。なお、作業台のレシピではLiquidDeathが必要です。
 
 interactions.154955d3.009703b7.title=ノコギリを見る(I see saw)
 interactions.154955d3.009703b7.description=飢えを防ぐことができるかもしれません。それともやめておきますか？水源をノコギリの真下に置いて流れに任せましょう。
@@ -92,7 +92,7 @@ interactions.154955d3.07930191.title=クエストチェーンのはじまり
 interactions.154955d3.07930191.text.0=四角いアイコンがついているクエストは、クエストラインの開始を意味します。
 
 interactions.154955d3.095258c2.title=あなたが重要です(I Heart you)
-interactions.154955d3.095258c2.description=VoidWorldではモブが自然スポーンしないため「zen summon」でゾンビ村人を召喚し、村人に変換しないと進めません。しかし、賢者の石を作るには、Heartかエメラルドが必要です。
+interactions.154955d3.095258c2.description=VoidWorldではモブが自然スポーンしないため「ZenSummon」でゾンビ村人を召喚し、村人に変換しないと進めません。しかし、賢者の石を作るには、Heartかエメラルドが必要です。
 interactions.154955d3.095258c2.text.0=村人の取引は無効です。そのため彼らは過剰な量のエメラルドを持っており、時折それを落とすことがあります。
 
 interactions.154955d3.0ce8b042.text.0=Candleは松明よりも簡単に作ることができ、機能も同じです。 暗闇に飛び込む際には必ずたくさん用意しておきましょう。
@@ -112,7 +112,7 @@ interactions.154955d3.1bb9079a.description=これがあなたの最初のかま�
 interactions.154955d3.1bb9079a.text.0=精錬には時間がかかるので、最初にいくつかのかまどを作っておくことをお勧めします。
 
 interactions.154955d3.1d3da519.title=fomdog melter
-interactions.154955d3.1d3da519.text.0=これはオーバーワールドに行くのに厳密には必要ではありませんが、焼成石の作成を簡単にするもので、後に必要になります。
+interactions.154955d3.1d3da519.text.0=これはOverWorldに行くために厳密には必要ではありませんが、SearedStoneの作成を簡単にするもので、後に必要になります。
 
 interactions.154955d3.1d6fe213.title=飢えた職人
 interactions.154955d3.1d6fe213.description=このパックではインワールドでのクラフトを卒業し、BasicWorktableでスタックを一度にクラフトすることができます。しかしこれには材料費がかかり、自動化もできません。そのためには機械が必要になります。また、液体も扱います。
@@ -125,7 +125,7 @@ interactions.154955d3.29f7cca1.description=糸を作るために綿を手に入�
 interactions.154955d3.29f7cca1.text.0=待ち時間を少なくするためにも、4～6台の構築をお勧めします。
 interactions.154955d3.29f7cca1.text.2=サバイバリスト、デンスサバイバリスト、フィッシャーマンズの3種類があります。3つのタイプにはそれぞれ異なるリソースが用意されており、すべてのリソースが必要となります。
 
-interactions.154955d3.2b15bcdb.description=これを作ってくれる魔法の変換ブロックがあればいいのですが。他のEMCアイテムと同様に、テーブルに十分なEMCがある場合にのみ表示されます。
+interactions.154955d3.2b15bcdb.description=これを生み出してくれる魔法の変換ブロックがあればいいのですが。他のEMCアイテムと同様に、テーブルに十分なEMCがある場合にのみ表示されます。
 
 interactions.154955d3.301f1896.title=クエストチェーンの完了
 interactions.154955d3.301f1896.text.0=大きなひし形のクエストインジケータは、クエストチェーンの終わりを表しています。また、次にどのクエストに挑戦すべきかの説明もあります。
@@ -179,7 +179,7 @@ interactions.154955d3.792f5e20.title=より良い建築ツール
 interactions.154955d3.792f5e20.description=ある程度は。
 
 interactions.154955d3.79371cf9.title=Interactionsへようこそ。日焼け止めを塗って、キーバインドの設定を忘れないでくださいね。
-interactions.154955d3.79371cf9.description=かつて、キーバインドを設定するのを忘れた、迷える小さなマインクラフトプレイヤーがいました。そのプレイヤーは迷ったままでした。そして、もう一人の賢い小さなマインクラフト・プレイヤーがいて、彼女はキーバインドを設定するのを忘れませんでした。彼女は記録的な速さでInteractionsを攻略しました。
+interactions.154955d3.79371cf9.description=かつて、キーバインドを設定するのを忘れた、迷える小さなマインクラフトプレイヤーがいました。そのプレイヤーは迷ったままでした。そして、もう一人の賢い小さなマインクラフトプレイヤーがいて、彼女はキーバインドを設定するのを忘れませんでした。彼女は記録的な速さでInteractionsを攻略しました。
 interactions.154955d3.79371cf9.tasks.0.title=了解
 interactions.154955d3.79371cf9.text.0=おすすめキーバインド:
 interactions.154955d3.79371cf9.text.1=- クエストブックを開く: NUMPAD 1
@@ -223,8 +223,8 @@ interactions.154955d3.8ffc4093.title=Water you doing?
 interactions.154955d3.8ffc4093.description=物理学の仕組みさえ知っていれば、氷を溶かして水にすることができる。そして、氷を提供してくれる魔法のブロックがあれば。
 
 interactions.154955d3.98f4c3c6.title=The World is Your Table
-interactions.154955d3.98f4c3c6.description=EMCテーブルから砂利を取り出し、Tinkersのフリントアックスヘッド用のフリントを作り、2x2のクラフトグリッドでストーンスティックと組み合わせます。
-interactions.154955d3.98f4c3c6.text.0=注：これらの道具はまだ修理できませんが、Voidは喜んでそれを生け贄として受け取ります。
+interactions.154955d3.98f4c3c6.description=EMCテーブルから砂利を取り出し、TinkersのFlintAxeHead用のFlintを作り、2x2のクラフトグリッドでStoneStickと組み合わせます。
+interactions.154955d3.98f4c3c6.text.0=注意：これらの道具はまだ修理できませんが、Voidは喜んでそれを生け贄として受け取ります。
 
 interactions.154955d3.9c5fed89.title=木の散髪師
 interactions.154955d3.9c5fed89.description=真のエキスパートは、すべての段階でEMCの生産を最小化します。
@@ -241,7 +241,7 @@ interactions.154955d3.a7bfabb6.title=FTB Interactions 問題追跡
 
 interactions.154955d3.a84dcdad.description=頑張ってください。私はあなたが見つけられないような場所に置いてあります。
 
-interactions.154955d3.a9d0a2ad.description=さらにTallowをCandleberrySeedに変換し、最後にCandleberryを搾ってWaxにして革を固めたり、Candleにして明かりを灯すことができます。
+interactions.154955d3.a9d0a2ad.description=さらにTallowをCandleberrySeedに変換し、最後にCandleberryを搾ってPressedWaxにして革を固めたり、Candleにして明かりを灯すことができます。
 
 interactions.154955d3.b0039b2c.description=まだ手動ですが、原木から木材を作るための最大限にてっとり早い方法です。
 
@@ -1215,82 +1215,82 @@ interactions.99314095.feb88166.text.2=この組立機は、より高いレベル
 
 interactions.9b11da3e.030d69d3.description=エヴォーカーは今までと変わらず、一部のダンジョンではよく見かけます。また、エヴォーカーのスパイク攻撃を再現できる杖が戦利品として出てくることもあります。
 
-interactions.9b11da3e.08750993.description=Underground commons sphere spawn!
+interactions.9b11da3e.08750993.description=地下によくある球状で生成される！
 
-interactions.9b11da3e.0989f65a.description=Spawns in a underground commonly, sphere?
+interactions.9b11da3e.0989f65a.description=地下によくある球状で生成される？
 
-interactions.9b11da3e.1bf130ae.title=銅鉱脈
-interactions.9b11da3e.1bf130ae.description=すべてのバイオームで生成されるが、ジャングルではマラカイトを含む銅の濃度が高い。
+interactions.9b11da3e.1bf130ae.title=Copper鉱脈
+interactions.9b11da3e.1bf130ae.description=すべてのバイオームで生成されるが、ジャングルではMalachiteを含むCopperの濃度が高い。
 
 interactions.9b11da3e.1d517b62.title=Vines, Vines Baby
 interactions.9b11da3e.1d517b62.description=東に行くと、より湿ったバイオームがあります。
 
-interactions.9b11da3e.29e24faa.description=青銅時代に入ると、カルト信者はほとんど出現しなくなります。ネザーに入ると、探索中にカルトナイトやリーダー、さらにはカルト信者を産み出すポータルが時々スポーンするようになります。
+interactions.9b11da3e.29e24faa.description=Bronze時代に入ると、カルト信者はほとんど出現しなくなります。ネザーに入ると、探索中にCrimsonKnightやLeader、さらにはカルト信者を産み出すポータルが時々スポーンするようになります。
 
-interactions.9b11da3e.2d3eff32.description=アップグレードするごとに、スキャナーの範囲が半径32ブロック分広がります。
+interactions.9b11da3e.2d3eff32.description=アップグレードするごとに、Scannerの範囲が半径32ブロック分広がります。
 
-interactions.9b11da3e.3a237ce5.title=オリヴィンとテラの鉱脈
+interactions.9b11da3e.3a237ce5.title=OlivineとTerraの鉱脈
 interactions.9b11da3e.3a237ce5.description=森の中やジャングル、魔法の森などで生成されます。
 
-interactions.9b11da3e.3e8fad6d.title=ラピスとアクアの鉱脈
+interactions.9b11da3e.3e8fad6d.title=ラピスとAquaの鉱脈
 interactions.9b11da3e.3e8fad6d.description=すべてのバイオームで生成されますが、世界の創造神話では、雪の女王が最高の嫁であり、寒いバイオームには彼女の好きな鉱物が多く含まれていると言われています。
 
-interactions.9b11da3e.3fd662cb.title=エメラルドとエアの鉱脈
+interactions.9b11da3e.3fd662cb.title=エメラルドとAirの鉱脈
 interactions.9b11da3e.3fd662cb.description=ジャングル、砂漠、崖、極端な丘など、世界の圧力で山や丘が形成されているバイオームで生成されます。
 
-interactions.9b11da3e.43694448.title=リグマ鉱脈
+interactions.9b11da3e.43694448.title=Ligma鉱脈
 interactions.9b11da3e.43694448.description=ジャングル以外のすべてのバイオームで生成されるので、余計に腹が立ちます。
 
 interactions.9b11da3e.4601090f.title=Veni Vidi, Vindicated!
 
-interactions.9b11da3e.47a2cc78.title=石炭鉱脈
+interactions.9b11da3e.47a2cc78.title=Coal鉱脈
 interactions.9b11da3e.47a2cc78.description=すべてのバイオームに生成されますが、時には困ったことになります。
 
 interactions.9b11da3e.4ba17bdc.title=Sandstorm
 interactions.9b11da3e.4ba17bdc.description=乾燥したバイオームは、西に移動することで見つけることができます。
 
-interactions.9b11da3e.56ae2c80.titleダイヤモンド鉱脈
+interactions.9b11da3e.56ae2c80.title=Diamond鉱脈
 interactions.9b11da3e.56ae2c80.description=すべてのバイオームで生成されますが、希少性があります。しかし、クリスタル・フォレストは、地中に豊富にあるダイヤモンドの鉱脈から生まれたことが知られています。
 
-interactions.9b11da3e.5a0c4ddc.title=鉄鉱脈
-interactions.9b11da3e.5a0c4ddc.description=すべてのバイオームで生成されますが、ジャングルは鉄とニッケルの供給源が多いです。
+interactions.9b11da3e.5a0c4ddc.title=Iron鉱脈
+interactions.9b11da3e.5a0c4ddc.description=すべてのバイオームで生成されますが、ジャングルは鉄とNickelの供給源が多いです。
 
 interactions.9b11da3e.656a9599.title=Great Basalz of Fire
-interactions.9b11da3e.656a9599.description=Blizzesは寒いバイオームで、Basalzのバイオームは山間部のバイオームで、Blitzのバイオームは乾燥したバイオームでスポーンします。
+interactions.9b11da3e.656a9599.description=Blizzは寒いバイオームで、Basalzのバイオームは山間部のバイオームで、Blitzのバイオームは乾燥したバイオームでスポーンします。
 
-interactions.9b11da3e.6751003f.title=銅・宝石の鉱脈
+interactions.9b11da3e.6751003f.title=Copper-Gemの鉱脈
 interactions.9b11da3e.6751003f.description=ジャングルを除く、すべてのバイオームで生成されます。
 
 interactions.9b11da3e.6aa5a786.title=レッドストーン鉱脈
 interactions.9b11da3e.6aa5a786.description=どこにもスポーンしません。嘘でーすw すべてのバイオームでスポーンします。
 
-interactions.9b11da3e.6b6fb393.title=レッドストーンとイグニスの鉱脈
-interactions.9b11da3e.6b6fb393.description=イグニスインフューズド、ルビーの濃度が高いレッドストーン鉱脈は、高温で乾燥したバイオームで生成されます。
+interactions.9b11da3e.6b6fb393.title=レッドストーンとIgnisの鉱脈
+interactions.9b11da3e.6b6fb393.description=Ignis-infused、ルビーの濃度が高いレッドストーン鉱脈は、高温で乾燥したバイオームで生成されます。
 
 interactions.9b11da3e.70a2cc40.title=花だけでは満足できないとき
-interactions.9b11da3e.70a2cc40.description=この強化されたスキャナーは、クラフトすることもできるし、Transmutationタブレットで入手することもできます。デフォルトの範囲は32ブロックですが、貴重な鉱石をアップグレードすると全てのGT鉱石を検出することができます。射程距離は2回、32ブロックずつアップグレードできます。
+interactions.9b11da3e.70a2cc40.description=この強化されたScannerは、クラフトすることもできるし、TransmutationTabletで入手することもできます。デフォルトの範囲は32ブロックですが、Rare Ores upgradeを入れると全てのGT鉱石を検出することができます。射程距離は2回、32ブロックずつアップグレードできます。
 
 interactions.9b11da3e.7b0e1039.title=暑くなってきましたね
 interactions.9b11da3e.7b0e1039.description=温暖なバイオームは南に行くとあります。
 
-interactions.9b11da3e.85886af3.description=青銅時代に入ってからは、変異スティーブがまれにスポーンするようになります。このゾンビはヒット数が多く、丸石以下の同じ硬さのブロックを破壊する能力を持っています。
-interactions.9b11da3e.85886af3.text.0=警告：変異スティーブは現在、ブロック崩しに非常に積極的で、あなたのお墓を壊すこともあります。これは将来のバージョンで変更される予定ですが、今のところは注意が必要です。
+interactions.9b11da3e.85886af3.description=Broze時代に入ってからは、MutantSteveがまれにスポーンするようになります。このゾンビはヒット数が多く、丸石以下の同じ硬さのブロックを破壊する能力を持っています。
+interactions.9b11da3e.85886af3.text.0=警告：MutantSteveは現在、ブロック崩しに非常に積極的で、あなたの墓を壊すこともあります。これは将来のバージョンで変更される予定ですが、今のところは注意が必要です。
 
-interactions.9b11da3e.858ab06f.title=Where is the precioussssSes?
-interactions.9b11da3e.858ab06f.description=特定のブロックを探すためのスキャナーは、少なくとも1つのブロックを手に入れれば、目的の鉱石をピンポイントで探すことができます。また、ブロックスキャナーは、チェストを探すことでダンジョンの位置を確認することができます。
+interactions.9b11da3e.858ab06f.title=貴重品はどこにありますかーーー?！
+interactions.9b11da3e.858ab06f.description=特定のブロックを探すためのScannerは、少なくとも1つのブロックを手に入れれば、目的の鉱石をピンポイントで探すことができます。また、ブロックScannerは、チェストを探すことでダンジョンの位置を確認することができます。
 
 interactions.9b11da3e.880e7a62.title=エンダースレイヤー
-interactions.9b11da3e.880e7a62.text.0=voidの生物を支配することで、自分の価値を証明する。100体のエンダーマンを倒すと、void starがもらえます。
+interactions.9b11da3e.880e7a62.text.0=Voidの生物を支配することで、自分の価値を証明する。100体のエンダーマンを倒すと、VoidStarがもらえます。
 
-interactions.9b11da3e.8e53eb8c.title=ソープストーン鉱脈
+interactions.9b11da3e.8e53eb8c.title=SoapStone鉱脈
 interactions.9b11da3e.8e53eb8c.description=すべてのバイオームで生成されます。
 
 interactions.9b11da3e.8fc0f4b9.title=Bone to be wild
 interactions.9b11da3e.8fc0f4b9.text.0=スケルトンはこれまで以上に合理化されています。
-interactions.9b11da3e.8fc0f4b9.text.1=- 装備品を落とすボススケルトンが出現する可能性があります。
-interactions.9b11da3e.8fc0f4b9.text.2=- 最大HP20からHP30へ
-interactions.9b11da3e.8fc0f4b9.text.3=- 以前よりも早く射撃できるようになりました
-interactions.9b11da3e.8fc0f4b9.text.4=- ランダムにエンチャントされたアーマーや武器を持ってスポーンします
+interactions.9b11da3e.8fc0f4b9.text.1=-装備品を落とすボススケルトンが出現する可能性があります。
+interactions.9b11da3e.8fc0f4b9.text.2=-最大HP20からHP30へ。
+interactions.9b11da3e.8fc0f4b9.text.3=-以前よりも早く射撃できるようになりました。
+interactions.9b11da3e.8fc0f4b9.text.4=-ランダムにエンチャントされたアーマーや武器を持ってスポーンします。
 interactions.9b11da3e.8fc0f4b9.text.6=しかし、これらの要因のバランスをとるために、ウィザーのスケルトンはこれまで以上に多く見られるようになりました。実際、ネザーのあらゆる場所でスポーンされます。
 
 interactions.9b11da3e.9779bb2d.title=Ice, Ice Baby
@@ -1298,15 +1298,15 @@ interactions.9b11da3e.9779bb2d.description=寒冷地のバイオームは、北�
 
 interactions.9b11da3e.9c4530c1.title=Slime Time
 interactions.9b11da3e.9c4530c1.text.0=スライムは以前よりもスリムになりました。
-interactions.9b11da3e.9c4530c1.text.1=- サイズに応じてより多くのノックバックを与えます
-interactions.9b11da3e.9c4530c1.text.2=- 以前よりもさらにジャンプできるようになりました
-interactions.9b11da3e.9c4530c1.text.3=- 殴ると追加のスライムが発生することがあるので、必ず大きなダメージを与えるようにしましょう。
+interactions.9b11da3e.9c4530c1.text.1=-サイズに応じてより多くのノックバックを与えます
+interactions.9b11da3e.9c4530c1.text.2=-以前よりもさらにジャンプできるようになりました
+interactions.9b11da3e.9c4530c1.text.3=-殴ると追加のスライムが発生することがあるので、必ず大きなダメージを与えるようにしましょう。
 
-interactions.9b11da3e.9cae6118.title=アパタイト鉱脈
-interactions.9b11da3e.9cae6118.description=極端に高温または低温の場所を除くすべてのバイオームで生成されます。沼地の植物は、その下に隠れた大きなアパタイト鉱脈で繁栄する傾向がある。
+interactions.9b11da3e.9cae6118.title=Apatite鉱脈
+interactions.9b11da3e.9cae6118.description=極端に高温または低温の場所を除くすべてのバイオームで生成されます。沼地の植物は、その下に隠れた大きなApatite鉱脈で繁栄する傾向がある。
 
 interactions.9b11da3e.9d5ccff5.title=Mana Leak
-interactions.9b11da3e.9d5ccff5.description=マナのプールは、オーバーワールドの自然にできた池の中にあります。
+interactions.9b11da3e.9d5ccff5.description=Manaのプールは、OverWorldの自然にできた池の中にあります。
 
 interactions.9b11da3e.9d784334.description=花崗岩に似ているため、世界生成の変換特性を利用し、玄武岩にも似ています。
 
@@ -1316,27 +1316,27 @@ interactions.9b11da3e.a2f23fb7.tasks.0.title=了解
 
 interactions.9b11da3e.a97e02d2.title=What's in your head, in your head, Zombieeeee
 interactions.9b11da3e.a97e02d2.text.0=ゾンビはこれまで以上にバランスのとれたものになっています
-interactions.9b11da3e.a97e02d2.text.1=- ランダムにエンチャントされたアーマー（ヘルメットを含む）を持って生まれることがあります。
-interactions.9b11da3e.a97e02d2.text.2=- キュートなゾンビポニーに乗っているチャンスがある
-interactions.9b11da3e.a97e02d2.text.3=- ジャンプ攻撃ができるようになり、自分に空腹をかけられるようになりました。ジムに通っているそうです。
-interactions.9b11da3e.a97e02d2.text.4=- HPが20ではなく30になり、ノックバック耐性もあります。
-interactions.9b11da3e.a97e02d2.text.5=- キャンドル、ジャック・オ・ランタン、洞窟のイルミネーター、ピースキャンドルなど、光を放つ特定のブロックを壊すことができます。
+interactions.9b11da3e.a97e02d2.text.1=-ランダムにエンチャントされたアーマー（ヘルメットを含む）を持って生まれることがあります。
+interactions.9b11da3e.a97e02d2.text.2=-キュートなゾンビポニーに乗っているチャンスがある
+interactions.9b11da3e.a97e02d2.text.3=-ジャンプ攻撃ができるようになり、自分に空腹をかけられるようになりました。ジムに通っているそうです。
+interactions.9b11da3e.a97e02d2.text.4=-HPが20ではなく30になり、ノックバック耐性もあります。
+interactions.9b11da3e.a97e02d2.text.5=-Candle、Jacko'Lantern、CaveIllminator、PeaceCandleなど、光を放つ特定のブロックを壊すことができます。(これはクエスト文のミスで、実際には行いません)
 interactions.9b11da3e.a97e02d2.text.7=その代わりに、赤ちゃんゾンビは日光で焼けるようになったのですから、すごいことですよね。
 
 interactions.9b11da3e.ad657e6e.title=Say aloe to my little friend.
-interactions.9b11da3e.ad657e6e.description=Pltants Modの植物は、大きな鉱脈の上に生えています。特定の鉱脈の上で育つように適応した品種もあり、地下に鉱石がある場所を示しています。
+interactions.9b11da3e.ad657e6e.description=PlantsModの植物は、大きな鉱脈の上に生えています。特定の鉱脈の上で育つように適応した品種もあり、地下に鉱石がある場所を示しています。
 
-interactions.9b11da3e.b345409a.title=ガレナ鉱脈
+interactions.9b11da3e.b345409a.title=Galena鉱脈
 interactions.9b11da3e.b345409a.description=ジャングル以外のすべてのバイオームで生成されます。
 
 interactions.9b11da3e.b7732c9d.title=夜は暗くて恐怖に満ちているから...
-interactions.9b11da3e.b7732c9d.text.0=液体スターライトでナイトビジョンポーションを強化することで、このクエストの長さを超延長する効果を定期的に得ることができます。(繰り返しクリア可能クエストです)
+interactions.9b11da3e.b7732c9d.text.0=LiquidStarlightでNightVisionPotionを強化することで、このクエストの長さを超延長する効果を定期的に得ることができます。(繰り返しクリア可能クエストです)
 
 interactions.9b11da3e.bdeb88ad.title=二重三重の苦労と悩み
 interactions.9b11da3e.bdeb88ad.text.0=魔女は今まで以上にアンフェアな存在です。
-interactions.9b11da3e.bdeb88ad.text.1=- 周りの敵モブにランダムなバフをかけます。
-interactions.9b11da3e.bdeb88ad.text.2=- スプラッシュ・ポーションの代わりに残留ポーションを投げることができます。
-interactions.9b11da3e.bdeb88ad.text.3=- 死んだらコウモリになってしまいます
+interactions.9b11da3e.bdeb88ad.text.1=-周りの敵モブにランダムなバフをかけます。
+interactions.9b11da3e.bdeb88ad.text.2=-スプラッシュポーションの代わりに残留ポーションを投げることができます。
+interactions.9b11da3e.bdeb88ad.text.3=-死んだらコウモリになってしまいます
 
 interactions.9b11da3e.c5321cae.title=ぐるぐる回っている
 interactions.9b11da3e.c5321cae.description=ワールドでは、数千ブロックごとにループするバイオームマップが使われています。
@@ -1345,8 +1345,8 @@ interactions.9b11da3e.c5321cae.text.0=ここでは、寒冷地と温暖地、乾
 interactions.9b11da3e.c6998f1b.title=Nickelback
 interactions.9b11da3e.c6998f1b.description=ジャングルを除くすべてのバイオームで生成されます。
 
-interactions.9b11da3e.c6da2f7a.title=エントロピーと水晶鉱脈
-interactions.9b11da3e.c6da2f7a.description=クオーツと同じ鉱脈や魔法の森で生成されます。
+interactions.9b11da3e.c6da2f7a.title=EntropyとQuartz鉱脈
+interactions.9b11da3e.c6da2f7a.description=Quartzと同じ鉱脈や魔法の森で生成されます。
 
 interactions.9b11da3e.c75fe8dc.title=Stibnite for Life
 interactions.9b11da3e.c75fe8dc.description=ジャングルを含むすべてのバイオームで生成されますが、非常に稀です。最もよく見られるのはネザーである。
@@ -1354,43 +1354,43 @@ interactions.9b11da3e.c75fe8dc.text.0=この鉱石はオーバーワールドで
 
 interactions.9b11da3e.cafef103.title=Itsy, bitsy, spider
 interactions.9b11da3e.cafef103.tasks.1.title=洞窟グモ
-interactions.9b11da3e.cafef103.text.0=Spiders これまで以上に脚力があります。
-interactions.9b11da3e.cafef103.text.1=- 落下ダメージを受けなくなりました
-interactions.9b11da3e.cafef103.text.2=- モブが乗っている状態でスポーンするチャンスがあります
+interactions.9b11da3e.cafef103.text.0=クモたちはこれまで以上に脚力があります。
+interactions.9b11da3e.cafef103.text.1=-落下ダメージを受けなくなりました
+interactions.9b11da3e.cafef103.text.2=-モブが乗っている状態でスポーンするチャンスがあります
 
-interactions.9b11da3e.cf64fb04.description=ほぼすべてのGT鉱石を見つけるためには、希少鉱石アップグレードスキャナーが必要です。
+interactions.9b11da3e.cf64fb04.description=ほぼすべてのGT鉱石を見つけるためには、ScannerModule: Rare Oresが必要です。
 
 interactions.9b11da3e.chapter.title=安全でない場所
 interactions.9b11da3e.chapter.description.0=オーバーワールドのバイオームと鉱石のガイド
 
-interactions.9b11da3e.db330a1e.title=スズ鉱脈
-interactions.9b11da3e.db330a1e.description=すべてのバイオームで生成されます。また、カシテライト鉱石は、通常のスズ鉱石よりも2倍のスズを生成します。
+interactions.9b11da3e.db330a1e.title=Tin鉱脈
+interactions.9b11da3e.db330a1e.description=すべてのバイオームで生成されます。また、Cassitrite鉱石は、通常のTin鉱石よりも2倍のTinを生成します。
 
 interactions.9b11da3e.de9eadd0.title=But I'm a creep
 interactions.9b11da3e.de9eadd0.text.0=クリーパーは以前よりも混乱しています。
-interactions.9b11da3e.de9eadd0.text.1=- プレイヤーから3ブロック以内にいると透明になります
-interactions.9b11da3e.de9eadd0.text.2=- 燃えると爆発します
+interactions.9b11da3e.de9eadd0.text.1=-プレイヤーから3ブロック以内にいると透明になります
+interactions.9b11da3e.de9eadd0.text.2=-燃えると爆発します
 interactions.9b11da3e.de9eadd0.text.4=今回は追加の特典はありません、頑張ってください
 
-interactions.9b11da3e.e01b7b0d.title=磁鉄鉱鉱脈
+interactions.9b11da3e.e01b7b0d.title=Magnetite鉱脈
 interactions.9b11da3e.e01b7b0d.description=すべてのバイオームで生成されますが、ジャングルの鉱脈は金の濃度が高いです。
 
-interactions.9b11da3e.e10ac745.title=オルドとサファイアの鉱脈
+interactions.9b11da3e.e10ac745.title=OrdoとSapphireの鉱脈
 interactions.9b11da3e.e10ac745.description=寒冷地のバイオームでのみ生成されます。
 
-interactions.9b11da3e.e10ce5b3.titleマンガン鉱脈
+interactions.9b11da3e.e10ce5b3.title=Manganese鉱脈
 interactions.9b11da3e.e10ce5b3.description=すべてのバイオームで生成されますが、数に限りがあります。
 interactions.9b11da3e.e10ce5b3.text.0=これらはオーバーワールドではひっっっっっっじょーに珍しいものです。一番のおすすめはネザーで探すことです。
 
 interactions.9b11da3e.e2685d91.description=地下でたまに、球状に生成されます。
 
-interactions.9b11da3e.e529bf92.title=あなたは大理石のように鋭い
-interactions.9b11da3e.e529bf92.description=大理石は古代の寺院で見つけることができますが、注意が必要です。古いものなので、軽く触れるだけで大理石が崩れてしまうことがあります。幸いなことに、崩れた大理石を修復する別の方法があるかもしれません。
+interactions.9b11da3e.e529bf92.title=あなたはMarbleのように鋭い
+interactions.9b11da3e.e529bf92.description=Marbleは古代の寺院で見つけることができますが、注意が必要です。古いものなので、軽く触れるだけでMarbleが崩れてしまうことがあります。幸いなことに、崩れたMarbleを修復する別の方法があるかもしれません。
 
 interactions.9b11da3e.f8958b59.title=最終的には、それは問題ではありません
 interactions.9b11da3e.f8958b59.text.0=エンダーマンたちは今まで以上に迷惑な存在です。
-interactions.9b11da3e.f8958b59.text.1=- 攻撃してきたプレイヤーをテレポートで遠ざけることが可能です
-interactions.9b11da3e.f8958b59.text.2=- ターゲットに盲目を適用するチャンスがわずかにあります
+interactions.9b11da3e.f8958b59.text.1=-攻撃してきたプレイヤーをテレポートで遠ざけることが可能です
+interactions.9b11da3e.f8958b59.text.2=-ターゲットに盲目を適用するチャンスがわずかにあります
 interactions.9b11da3e.f8958b59.text.4=このような可能性を補うために、エンダーマンは死亡時に最低1つのエンダーパールを必ず落とします。また、インベントリにエンダーパールを入れておくことで、エンダーマンのテレポート能力を防ぐことができます。
 
 interactions.a4a70422.013a3390.title=This collector kinda sucks
