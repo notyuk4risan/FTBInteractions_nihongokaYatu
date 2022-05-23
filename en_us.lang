@@ -606,7 +606,7 @@ interactions.40159cc8.16a194f4.title=Photofission Nuclear Chamber
 interactions.40159cc8.16a194f4.text.0=This blueprint can be found in the dungeons on Euclydes and later craftable. It will provide massive amounts of steam capable of generating LuV tier power in turbines when provided with proccessed uranium fuels.
 
 interactions.40159cc8.1e07ae16.title=To boldly go where no Steve has gone before...
-interactions.40159cc8.1e07ae16.description=Create the Warp core on your Space-Station, feed it with Dilithium Crystals and use the Warp Controller to travel to far away galaxies! *IMPORTANT: Make sure you convert your GT titanium blocks to Advanced Rocketry variants by shape crafting them in an empty crafting grid.
+interactions.40159cc8.1e07ae16.description=Create the Warp core on your Space-Station, feed it with Dilithium Crystals and use the Warp Controller to travel to far away galaxies!
 
 interactions.40159cc8.1e936edf.title=Diamond and Emerald Veins
 
@@ -745,7 +745,7 @@ interactions.498eb09c.31031dcd.title=Biomass
 interactions.498eb09c.31031dcd.description=Best catalyst is Botania Petals, but you can double check in JEI if you don't believe us.
 
 interactions.498eb09c.33705eac.title=High Powered Hootch
-interactions.498eb09c.33705eac.text.0=Ethanol can be produced from biomass, which can be in turn produced by plant matter and honey for best results. Honey from rustic apiaries is plentiful and botania flowers can be automed via a jaded amaranthus or by duplicating white metals with mana
+interactions.498eb09c.33705eac.text.0=Ethanol can be produced from biomass, which can be in turn produced by plant matter and honey for best results. Honey from rustic apiaries is plentiful and botania flowers can be automed via a jaded amaranthus or by duplicating white petals with mana
 
 interactions.498eb09c.46ef265b.title=Fluorine
 interactions.498eb09c.46ef265b.description=Can be obtained by electrolyzing many different salts, primarily lepidolite. Can be synthesized renewably from biotite dust. 
@@ -1508,7 +1508,7 @@ interactions.a4a70422.78652784.title=Hop to It
 interactions.a4a70422.78652784.description=Hopperhock is particularly good at handling output from your treefarm. It prioritizes inventories next to it with itemframes and the item you want it to sort. Any leftovers can go to a trashcan next to it with no itemframe.
 
 interactions.a4a70422.7dba0de1.title=Deep Sink
-interactions.a4a70422.7dba0de1.description=Now you're getting into some serious storage. Even the basic quantum tank can store 64k buckets of liquid.
+interactions.a4a70422.7dba0de1.description=Now you're getting into some serious storage. Even the basic quantum tank can store 128k buckets of liquid.
 
 interactions.a4a70422.817ad1ca.text.0=Has 9x12 storage slots.
 
@@ -1650,7 +1650,7 @@ interactions.aa10a1a2.25fe4035.title=Interactions Fuel Flowchart from Diesel to 
 
 interactions.aa10a1a2.291c85cc.title=Upgrade !
 interactions.aa10a1a2.291c85cc.text.0=When you have a lot of machines running your one boiler cant keep up anymore? why not upgrade your current boiler instead of building more boilers?
-interactions.aa10a1a2.291c85cc.text.1=Your whole steam infrastructure stays the same, the only thing you might need to consider is are your pipes and fuel productions keeping up with production? 3 ICOs may no longer be enough unless you tightly regulate fuel usage. 
+interactions.aa10a1a2.291c85cc.text.1=Your whole infrastructure stays the same, the only thing you might need to consider is are your pipes keeping up with production?
 
 interactions.aa10a1a2.2be7c722.title=You've urned this
 interactions.aa10a1a2.2be7c722.description=As you progress into the LV age you can create a better water source, aqueous accumulator creates water for free, while the Mekanism pump will produce it far faster but takes energy. The choice is yours.
@@ -2170,7 +2170,7 @@ interactions.ed136c16.61ac4cf4.title=No Slime Islands
 interactions.ed136c16.61ac4cf4.description=If you want some of the colored slimes for equipment or embossing, you'll have to farm them from the trees.
 
 interactions.ed136c16.635d5fcc.title=Snowflake Air
-interactions.ed136c16.635d5fcc.text.0=Mekanism machinery uses a decondenstrated gaseous form of common GT materials. To conver into the correct type of gas you'll need to put oxygen or hydrogen into a chemical reactor with a configuration 5 circuit to convert to Mekanism fluid.
+interactions.ed136c16.635d5fcc.text.0=Mekanism machinery uses a decondenstrated gaseous form of common GT materials. To conver into the correct type of gas you'll need to put oxygen or hydrogen into a chemical reactor with a configuration 1 circuit to convert to Mekanism fluid.
 interactions.ed136c16.635d5fcc.text.1=Once you have Mekanism oxygen and hydrogen you can then use a rotary condestrator to turn it into a usage gas to power your jetpack, scuba gear or flame thrower.
 
 interactions.ed136c16.637db57f.title=This was a Triumph
